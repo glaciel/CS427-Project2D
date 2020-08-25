@@ -1,0 +1,33 @@
+﻿2
+1;The person ______ invented the zipper must be very rich by now.;which;who;whom;who
+2;The salmon ______ they developed grows twice as fast as a normal fish.;that;who;whom;that
+3;The company is developing a new phone _____ runs on solar power.;that;when;who;that
+4;There is a genetically modified tomato _____ has genes from a fish to resist cold.;though;who;which;which
+5;Companies _____ are suing each other over patents more and more these days.;that;which;whom;that
+6;A hotel is a place ______ people stay when they’re on holiday.;that;which;when;that
+7;What’s the name of the women ____ lives in that house?;who;which;whose;who
+8;What do you call someone _____ writes computer programmes?;which;that;where;that
+9;The mountain _____ we climbed yesterday was the highest mountain in Britain.;which;where;what;which
+10;Hal didn’t get the job _____ he applied for.;where;when;that;that
+11;Children _____ hate chocolate are uncommon.;which;who;whose;who
+12;An elephant is an animal ____ lives in hot countries.;who;whose;that;that
+13;The dish _____ I ordered is delicious.;that;who;whom;that
+14;The man ____ came with her has already left.;which;that;whose;that
+15;The woman _____ spoke at the meeting was very knowledgeable.;which;that;then;which
+16;She bought the computer ____ her brother recommended.;who;which;where;which
+17;We called the taxi company _____ Julie often uses.;which;who;whom;which
+18;We employed the lawyer _____ Julie recommended.;which;where;that;that
+19;The doctor _____ Lucy asked about her problem was right.;which;that;whose;that
+20;The woman _____ lives next door works in a bank.;who;which;whom;who
+21;I cannot remember the reason _____ he wanted us to leave.;when;why;which;why
+22;She’s the most hard-working student _____ I’ve ever had.;which;that;who;that
+23;The company gave a promotion to John, ______ department performed best last year.;who;whose;which;whose
+24;I didn’t get a pay raise, but this was not the reason ____ I left.;why;which;that;why
+25;I went to the party ______ I was going to see Mark.;when;that;where;where
+26;We don’t know all the guests _____ were invited to the party.;nothing;who;which;who
+27;Do you know the man _____ live across the street?;who;whose;which;who
+28;Do you remember the date ____ we have to submit the essay?;that;which;when;when
+29;Jane, ____ mother is a physician, is very good at biology.;that;who;whose;whose
+30;We bought this map, ______ helped us a lot.;who;which;that;which
+31;Do you know the restaurant _______ Stephen picked me up?;where;that;which;where
+32;Jack, ______ parents died when he was two, was adopted by the Smiths.;which;who;whose;whose

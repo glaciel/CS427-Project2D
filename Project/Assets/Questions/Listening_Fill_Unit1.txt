@@ -1,0 +1,49 @@
+﻿1
+1;Today, I’m going to be talking about methods used for identifying people. Everyday, there are situations in which we have to _____ who we are.;identify
+2;Not that long ago, a photo ID was sufficient for most purposes. But nowadays, we live in a world with full of technology, where there are issues with identity theft and the need to _____ our identity online.;verify
+3;Biometrics is the measurement and _____ of a unique physical feature of a person.;analysis
+4;For example, a ________ or a voice recording as the way to verify a person’s identity.;fingerprint
+5;First, I want to do a quick overviewing of using photo IDs and passports. Then, I’ll talk in more detail about using biometrics, and why some people say using _____ information is the most reliable way to identify someone.;biometric
+6;But in general, these IDs typically include the person’s photo, name, their address, nationality, gender and identification number, they may have _________, hair color, eyes color, height, and weight.;marital status
+7;One advantage of a photo ID is someone can look at the photo and quickly _____ who you are.;verify
+8;The disadvantage is it can be lost or _____.;stolen
+9;We can _____ our password or PIN, and they can be stolen.;forget
+10;Someone can use our password or PIN and pretend they are us in order to _____ our information.;access
+11;Now, let’s turn our attention to different types of biometric information used to identify someone. The first and all this is ________.;fingerprinting
+12;You are all ______ familiar with this.;probably
+13;Each of us has a ______ fingerprint because the skin on our fingertips has a distinct pattern.;unique
+14;To verify someone’s __________, 2 fingerprint samples are taken from the same finger, they are then compared to see if they match.;identification
+15;Because the skin is _______ and moves very slightly, the samples may not match 100%.;flexible
+16;However, this is still a reliable way to identify someone. Furthermore, nowadays, 3D scanners are becoming more _____.;common
+17;These use light and the person doesn’t touch anything making this method even more _______.;reliable
+18;Since every person’s voice has a unique combination of features such as ______ and rhythm, a recording of the person’s voice can be used to establish identity.;pitch
+19;To make a voice ID, a person records a secret _________ or a series of numbers.;passphrase
+20;Later on, when that person needs to be identified, they’d say the same information, if they match the recording, then the person is identified _______.;correctly
+21;Because the recording captures many features of the voice, this is a reliable means of identification in situations when the person cannot be seen, for example on the _______.;telephone
+22;Next, there is DNA testing. What you need to understand for a _________ of biometrics for identification is that all people share over 99% of the same DNA information.;discussion
+23;But, there is a very small amount of DNA information that varies ____________ from one person to another.;substantially
+24;The lab can only look for the _________ in other words, the likelihood of a match between samples.;probability
+25;It can’t say with ______ certainty that 2 DNA samples are from the same person.;absolute
+26;The last type of biometric information I want to cover is iris ________.;recognition
+27;The scan of the _____ is then stored on video.;iris
+28;Because the iris patterns in our eye are unique for each of us, the patterns can be used to ________ our identity.;determine
+29;Compared to other types of biometric information, iris recognition is especially good for identification for a couple of reasons. It’s inside the eye and well ________ from damage.;protected
+30;In addition, because the iris is mostly flat, it is easy to create very ________ video image of it.;accurate
+31;For this reason, iris recognition is often used in passport free automated border crossing between some countries and in buildings where security is _________.;important
+32;Today, on the show we’re talking about life events that affect one’s _____.;identity
+33;We have with us Dan Morgan, who interviewed over a hundred of people. He asked them all the same question “what was the life event that affected yourself identity?”. I’m wondering Dan, did you find some _____ major events?;common
+34;Sure, things like getting ____, graduating from school, getting a job.;married
+35;But I also heard examples of a defining moment that change the directions of someone’s life. Like one man, he told me as a boy, he always wanted to become a ____ like his uncle.;doctor
+36;Then, one day, while watching TV, he suddenly knew he wanted to be a _______ instead.;journalist
+37;But the day I got married I had a whole new identity with regard to my family, I was a ____, I had a husband.;wife
+38;One my marital status changed, I had a new role within my family _____, inside the home as well as socially outside the home.;structure
+39;I wanted to be in the team for a couple of years. I ____ hard at the pool all summer.;trained
+40;And it paid off. I tried out for the team and I ____ it.;made
+41;At last, I can ______ myself as a member of the team and call myself a school athlete.;consider
+42;Wow, that shows that will power can really help us ____ our goals.;attain
+43;That’s true. this is a good example of how if we are _______ enough, our achievements can lead to a whole new identity.;determined
+44;Oh, let’s see. A major life event that changed myself identity? It’s gotta be the day I got my driving _____.;license
+45;How so? Simple, one day i wasn’t ______ to drive on the street and the day i got my license, i could.;permitted
+46;Driving ______ me to go places and do things I hadn’t done before. I felt like I was one step closer to being an adult, and making more of my own decisions.;enabled
+47;Where was the first place you drove? Oh, I just drove down to the end of my street with my family. I was very ______ at first.;nervous
+48;Now, it’s my hobby, I paint every chance I get. I never thought I’d call myself an _____ at my age.;artist

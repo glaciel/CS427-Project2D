@@ -1,0 +1,10 @@
+﻿3
+72;All of the students had watched the video at home.;F
+73;The experiment was on crows.;T;The crow was given a straight piece of wire.;T
+74;The bird can food at first try.;F;Finally, the bird can get food after many tries.;T
+75;The professor totally agrees with Alison’s answer.;F;According to the professor, we can’t see thoughts inside the bird’s head.;T
+76;We used to think only humans could use or make tools.;T;It’s surprising for the researchers when little birds can use tools;T
+77;Only the birds in the laboratory can make tools.;F;The crows in a few islands in Pacific can make tools to find insects.;T
+78;The crow had never seen metal wire before the experiment.;T
+79;The researchers repeated the experiment on the same crow.;T
+80;The pigeons’ brains are larger than the crows’.;F

@@ -1,0 +1,50 @@
+﻿7
+1;A few years ago, a woman went into a small café in South Carolina in the USA and ______ a cup of coffee.;ordered
+2;When she was ______ with her coffee, she paid $100, which was much more than it cost.;finished
+3;She told the café to use the extra money for ______ who needed it.;customers
+4;Why did she do this? Was she just being kind? Or could it be that she was acting out of a more basic human ______, the will to survive?;motivation
+5;The café where this took place was where local people ______ regularly.;gathered
+6;As word of the woman’s _______ spread, more customers decided to also leave a little extra money as well.;generosity
+7;This happened at a time of high _______, when no one knew who would lose their job next.;unemployment
+8;The customers in the shop realized they needed to help _____ each other through a difficult economic situation.;sustain
+9;Let’s have a look at the findings of ________ who have studied kindness as it relates to our survival instinct.;psychologists
+10;The basic _____ is that people are kind to each other to ensure survival, that is, it is in everyone’s best interest to help one another.;concept
+11;When we are kind, we connect with other people and create a sense of ______ in which to live.;community
+12;We do kind things because we want others to do kind things for us. In other words, we want to ____ reciprocity between people because it helps us all to survive.;foster
+13;There are two ways reciprocity works. There’s direct _______ in which two people agree to a specific exchange.;reciprocity
+14;The coffee shop ____ however, is an example of indirect reciprocity.;tale
+15;In this case, I do something for you, you then help someone else, that person goes on to help a ____ or fourth person.;third
+16;In this way, we ______ that it is OK to ask one another for help.;establish
+17;Through these acts of ______ we build a bond with one another — be it our family, our friends, our neighbors — and thereby a sense of community that helps us all to survive daily.;kindness
+18;But acts of kindness go _____ our local community.;beyond
+19;Every year there are natural disasters, such as earthquakes, floods, and ______.;drought
+20;Afterward, people from other parts of the world — total ______ — respond to help.;strangers
+21;They send food, water, medical ______, and other types of emergency aid to disaster victims.;supplies
+22;Responses to natural disasters take indirect reciprocity one step further in the sense that ______ can’t possibly expect they will get anything directly back.;individuals
+23;That said, their actions highlight that all countries are part of a global community in which it’s to everyone’s survival advantage to help one another in times of ____ need.;dire
+24;Related to this is the question: What makes someone ____ his or her life for a total stranger?;risk
+25;This doesn’t sound like an ____ for survival, and yet it is not unusual to hear reports of people who put their own lives in danger to perform spontaneous acts of kindness in order to save someone they’ve never met before.;urge
+26;One such case was a recent story about a car that _____ into a river with two small children in the back seat.;plunged
+27;Another _____ jumped into the river and saved the children. Afterward, he was called a hero.;driver
+28;If a stranger saw that my children needed help, he would help them. This man risked his own life because his first ______ was to help others survive.;priority
+29;And, the stronger the community, the better chance we all have of living better lives, and surviving and ______ our own survival.;ensuring
+30;Our ability to survive in the future depends in part on how we adapt the way we currently ______ buildings.;construct
+31;______ are that by the year 2050, there will be nine billion people in the world.;Estimates
+32;If we had ______ resources of building materials, water, and energy, this wouldn’t be a concern.;unlimited
+33;Thus, the challenge now is to learn to design buildings that use resources ____.;wisely
+34;We need to meet the needs of people living today, but we can’t overuse our resources now and possibly _______ the ability of future generations to meet their needs.;jeopardize
+35;With this in mind, today we’re going to look at a ____ called green building, which emphasizes using renewable resources, like sunlight, and being environmentally responsible.;trend
+36;First I’ll explain the ______ of green building.;principles
+37;Then, I plan to focus on two aspects: energy use and ____ of existing buildings.;reuse
+38;Regarding the principles of green building: The first principle is that the building is energy ______. For example, it has windows that let in light, but not heat or cold.;efficient
+39;It uses _____ energy sources, such as solar and wind power.;renewable
+40;The second principle is that the building fits in well naturally with where it is located. For _______, it uses local trees and plants.;landscaping
+41;The third principle is resource ______.;conservation
+42;This means the building materials that are used have some recycled _____, and come from local sources.;content
+43;The fourth principle is that the building meets the community needs of the people who use it. For example that there is easy _____ to transportation and shopping.;access
+44;And, finally, the last principle is that it is better from a resource _______ to reuse an old building than to build a new one.;perspective
+45;The goal is to _____ energy use during the construction of a building as well as when it is used.;reduce
+46;Attention is paid to the type of building materials ______.;selected
+47;For example, builders use renewable materials like _____.;bamboo
+48;The aquatic center in Beijing was _______ to an enormous indoor water park where thousands of people can enjoy a variety of recreational activities.;converted
+49;The plans for the London Olympics of 2012 included the way some buildings would be reused as is, or reduced in size so that they could be ______ once the Olympics ended.;utilized

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 710136403adc6014082fcd7a5f6a297f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bubble: {fileID: 1790314530867372, guid: 67274a472403d354d9b19d5e1a25ef1f, type: 3}
+  - bubbles: {instanceID: 0}
+  - inputField: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - testGame: {instanceID: 0}
+  - vocabList: {fileID: 4900000, guid: 9e39fd3ee26db724595866f3b110cabd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

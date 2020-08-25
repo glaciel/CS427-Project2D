@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: 36f16c74d7fcf684f9afaa60957d1d49
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[5x12] Tap To Play_0'
+    21300002: '[5x12] Tap To Play_1'
+    21300004: '[5x12] Tap To Play_2'
+    21300006: '[5x12] Tap To Play_3'
+    21300008: '[5x12] Tap To Play_4'
+    21300010: '[5x12] Tap To Play_5'
+    21300012: '[5x12] Tap To Play_6'
+    21300014: '[5x12] Tap To Play_7'
+    21300016: '[5x12] Tap To Play_8'
+    21300018: '[5x12] Tap To Play_9'
+    21300020: '[5x12] Tap To Play_10'
+    21300022: '[5x12] Tap To Play_11'
+    21300024: '[5x12] Tap To Play_12'
+    21300026: '[5x12] Tap To Play_13'
+    21300028: '[5x12] Tap To Play_14'
+    21300030: '[5x12] Tap To Play_15'
+    21300032: '[5x12] Tap To Play_16'
+    21300034: '[5x12] Tap To Play_17'
+    21300036: '[5x12] Tap To Play_18'
+    21300038: '[5x12] Tap To Play_19'
+    21300040: '[5x12] Tap To Play_20'
+    21300042: '[5x12] Tap To Play_21'
+    21300044: '[5x12] Tap To Play_22'
+    21300046: '[5x12] Tap To Play_23'
+    21300048: '[5x12] Tap To Play_24'
+    21300050: '[5x12] Tap To Play_25'
+    21300052: '[5x12] Tap To Play_26'
+    21300054: '[5x12] Tap To Play_27'
+    21300056: '[5x12] Tap To Play_28'
+    21300058: '[5x12] Tap To Play_29'
+    21300060: '[5x12] Tap To Play_30'
+    21300062: '[5x12] Tap To Play_31'
+    21300064: '[5x12] Tap To Play_32'
+    21300066: '[5x12] Tap To Play_33'
+    21300068: '[5x12] Tap To Play_34'
+    21300070: '[5x12] Tap To Play_35'
+    21300072: '[5x12] Tap To Play_36'
+    21300074: '[5x12] Tap To Play_37'
+    21300076: '[5x12] Tap To Play_38'
+    21300078: '[5x12] Tap To Play_39'
+    21300080: '[5x12] Tap To Play_40'
+    21300082: '[5x12] Tap To Play_41'
+    21300084: '[5x12] Tap To Play_42'
+    21300086: '[5x12] Tap To Play_43'
+    21300088: '[5x12] Tap To Play_44'
+    21300090: '[5x12] Tap To Play_45'
+    21300092: '[5x12] Tap To Play_46'
+    21300094: '[5x12] Tap To Play_47'
+    21300096: '[5x12] Tap To Play_48'
+    21300098: '[5x12] Tap To Play_49'
+    21300100: '[5x12] Tap To Play_50'
+    21300102: '[5x12] Tap To Play_51'
+    21300104: '[5x12] Tap To Play_52'
+    21300106: '[5x12] Tap To Play_53'
+    21300108: '[5x12] Tap To Play_54'
+    21300110: '[5x12] Tap To Play_55'
+    21300112: '[5x12] Tap To Play_56'
+    21300114: '[5x12] Tap To Play_57'
+    21300116: '[5x12] Tap To Play_58'
+    21300118: '[5x12] Tap To Play_59'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1166
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d908effd9b394dad4761d76d3abe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_1'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1166
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abb9f08b495484d9002493fe59be19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_2'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1166
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0fc9a71682654e8cb982d7fb9cdcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_3'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1166
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f048eccbee89a9048a27ddbb3ec5491a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_4'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1166
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bbf59b3a25486439cfbf3f28500002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291f8f26996a414bb8394db195271f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_6'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1060
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1de9505a523d47aec1eec23f68e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_7'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1060
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1c357867d6f84d8a614925796d626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_8'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1060
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25836005d4ea3bb42a21c03b9e1b22f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_9'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1060
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e499511eff02d544e9ff38c993d00738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7084506c67a6a74c9e1f70fbb8f80fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_11'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 954
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d02fd2ba23f0840ba310b428e8689c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_12'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 954
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea77bdefa4c9e4ca9e1e33919a1816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_13'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 954
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb244120542327d4fb63bd6186cb30f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_14'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 954
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9ce0bd08a56d489009dc9be0708c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_15'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65e67a7070e3943955226bcb7028af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_16'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 848
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43991cf25b51bf4885bd87c9f494976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_17'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 848
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712e73a324f06e428bc1ca428c05b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_18'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 848
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ff6b131346b74fa875a5c0abcdb33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_19'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 848
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4608152b7dcf45bc6e3156820213d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_20'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bcfa9c346e8324ba6f2a1e6d82937e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_21'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 742
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ed566516dd284e92627a3de2877ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_22'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 742
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38a5a64da5e514d95060c097303fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_23'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 742
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d68a5881ea4ee47951628b17a25f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_24'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 742
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f9522620c9f649901c404fd44ec2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_25'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abf3c81c0e9fd44b46bbba12fe47df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_26'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 636
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da100fc5d0ce41c4cb2d289905305bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_27'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 636
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce47d74ed3a8dca4cbab168b7de012d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_28'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 636
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5567c9e84e687d4e9062e2ca700c0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_29'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 636
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb68f9e8dd76c44e974dace993e7b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_30'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1113005bf4cf42ad04b35a724737d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_31'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 530
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c09ca463355af46a54fe9ed2ef8d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_32'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 530
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c15b4c4a69db45b34e62fffe7f800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_33'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 530
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e6a33d098d024da46ebeba66db81c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_34'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 530
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4894a5d25ab87646a1e3768c1f95af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_35'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949067977ada98c4a910c543b7d86804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_36'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 424
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128a7dee91a84d4ebbbc7c04ddba384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_37'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 424
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d739d8c5bc82448e1183dbf6655f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_38'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 424
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2aca0a3e875a439aff17741d5f052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_39'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 424
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51bdffb7f0cf740a9a70fb9aec1f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc2e59e10a6c3479c55f2b36ddd651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_41'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 318
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e0aa67abbab3d409305ac75f3073cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_42'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 318
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968be058d43e1d48ae131ec0bcf462f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_43'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 318
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737fd555ffa505499c045568097c0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_44'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 318
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d98d0b0298aa4c9e44a9c29176530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_45'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf03df107f83345a4ade0c9cb48a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_46'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 212
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc216a458def55347926fa96b5f12db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_47'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 212
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14daa41bccf4d4745b24134745a02a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_48'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 212
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e36b6e3daacb4b8a1757593125a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_49'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 212
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39669628959f768409d2fb24c7381107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_50'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e65ceceab22547bd9a575639e0870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_51'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 106
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d354d01587cf0a4ea03d3a1889b5483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_52'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 106
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb668657693bc449fe9a876608a8b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_53'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 106
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af0ca6b466af041962e08b59a9703b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_54'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 106
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5f31cf1f58e448b4bfd0528518e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_55'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b025399279c354ca3ead1c68ca2873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_56'
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b390b665d702459f726a0be8f8c38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_57'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e7f96416623c8489f5054c1a81ae9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_58'
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b19ef67a1788c43ad20bd5cd8259ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x12] Tap To Play_59'
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cae7a05c5f4bc4699be14d226cb686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5249a46bd4b7a884ba5fe45ef659aa8d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

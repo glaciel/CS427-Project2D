@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 28504c6b0b10b914fb53a583068d8ac8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[7x6] Volcano Steam_0'
+    21300002: '[7x6] Volcano Steam_1'
+    21300004: '[7x6] Volcano Steam_2'
+    21300006: '[7x6] Volcano Steam_3'
+    21300008: '[7x6] Volcano Steam_4'
+    21300010: '[7x6] Volcano Steam_5'
+    21300012: '[7x6] Volcano Steam_6'
+    21300014: '[7x6] Volcano Steam_7'
+    21300016: '[7x6] Volcano Steam_8'
+    21300018: '[7x6] Volcano Steam_9'
+    21300020: '[7x6] Volcano Steam_10'
+    21300022: '[7x6] Volcano Steam_11'
+    21300024: '[7x6] Volcano Steam_12'
+    21300026: '[7x6] Volcano Steam_13'
+    21300028: '[7x6] Volcano Steam_14'
+    21300030: '[7x6] Volcano Steam_15'
+    21300032: '[7x6] Volcano Steam_16'
+    21300034: '[7x6] Volcano Steam_17'
+    21300036: '[7x6] Volcano Steam_18'
+    21300038: '[7x6] Volcano Steam_19'
+    21300040: '[7x6] Volcano Steam_20'
+    21300042: '[7x6] Volcano Steam_21'
+    21300044: '[7x6] Volcano Steam_22'
+    21300046: '[7x6] Volcano Steam_23'
+    21300048: '[7x6] Volcano Steam_24'
+    21300050: '[7x6] Volcano Steam_25'
+    21300052: '[7x6] Volcano Steam_26'
+    21300054: '[7x6] Volcano Steam_27'
+    21300056: '[7x6] Volcano Steam_28'
+    21300058: '[7x6] Volcano Steam_29'
+    21300060: '[7x6] Volcano Steam_30'
+    21300062: '[7x6] Volcano Steam_31'
+    21300064: '[7x6] Volcano Steam_32'
+    21300066: '[7x6] Volcano Steam_33'
+    21300068: '[7x6] Volcano Steam_34'
+    21300070: '[7x6] Volcano Steam_35'
+    21300072: '[7x6] Volcano Steam_36'
+    21300074: '[7x6] Volcano Steam_37'
+    21300076: '[7x6] Volcano Steam_38'
+    21300078: '[7x6] Volcano Steam_39'
+    21300080: '[7x6] Volcano Steam_40'
+    21300082: '[7x6] Volcano Steam_41'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7134c0151359fee4fba5706e11712d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_1'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ebdb0bf1036140b6c0e7827036f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_2'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23553eff25dfb4ab5e20aa57f99d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_3'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be19a9471abac41a6bde4a3ba79907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_4'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a01897c204114292dfc9c6d47bad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_5'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37dfb0007fae140a0bc4881e527516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_6'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2030
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2b5a16f4c11348a32369eab344e98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_7'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413633db5dabbed4eab795105b4ad896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_8'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605bebe1ace443d4c981f1d0f5c6b84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_9'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b93708b083a44cb961fef90f45fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_10'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd6fbba7966a474da20fb345047d3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_11'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0936b1e65efdd1f40b842a199966855c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_12'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc72eb12f1ef84482e642cbe5def1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_13'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1624
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8dc203f39b3844cbb82c805a24c0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_14'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3476347a03934f81422b3e0b4790c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_15'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1140b4666b89c0d4c98ae1c5438612cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_16'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5cbb1ed4ac28f40a2381b313b9873c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_17'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e367608908324687835575fb05a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_18'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c067b8126a1614ca79f9676177899a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_19'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3190142caec89dd429d00a712bba0578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_20'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1218
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc0f26e85c04f4eae01abc6399f580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_21'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5df8d9274e604085c3207bba6c2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_22'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024d4b26ff8acb4a9f7efc1b88dada2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_23'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f900e6f154450945a536924590d4dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_24'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bac2dd9789a094e921d08a4ead224e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_25'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48989cb90d2f64fbf0311f0960043e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_26'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864cd40dd6db812409a72dbd974e1b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_27'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 812
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303571e440417d5439bdbac1778538f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_28'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c2179dab2996409144d2b2429cc2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_29'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed7a6cf4c873f4da201c4e79302c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_30'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4bd3cb4a57894a828ac4801e72fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_31'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c46b15407e0c4409c91476de4209b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_32'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaade72d0a61bb42b602807237316ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_33'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc8c5ff7033b34ca94912982e7f87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_34'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 406
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18603f8a74f7a1046a68dd73dad7818b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_35'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f21a80572c0dea46adadff14d80b21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_36'
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8581be3c77fa4d96f3d6c0b811495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_37'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c610b9b8a02864aa6fa6fd742d17ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_38'
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d527789a9e29574b825a4cd71bbba13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_39'
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a7cf716460df43a057567203bd009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_40'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5766308219ac54a82f5907bf4aae05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[7x6] Volcano Steam_41'
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 350
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148141985fe0035488f9e37c6dce39be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6446b373556e14745b4c20cf252a6317
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,61 @@
+﻿2
+1;So that’s the general introduction to the course: the class _____, your textbooks, exams, and assignments, and so on.;schedule
+2;So if everyone can have a look at the ______ titled “The inventions of Arthur Pedrick”;handout
+3;Now, you’re all future engineers. So who can tell me what these _______ are?;inventions
+4;Uh, let me see...Wow, who know? Have a _____.;guess
+5;Well, it’s something related to golf. What exactly, I’m not sure. A good start. Actually, this is a _____ golf ball that you can control after you hit it.;special
+6;Let’s say you hit the ball, and it starts to go the wrong way. What golfer hasn’t had that happen? Well, with this ball, you can steer it back in the right ______.;direction
+7;Let me go back a bit and explain. Before he became an inventor, Pedrick had worked in the British ______ office for many years.;patent
+8;After he retired-this was in the 1960s and 70s-he patented about 160 inventors, all very ______ ones like that golf ball.;unusual
+9;It looks like a car you can drive from the back seat. That’s right! He said people in the back seat always ______ about his driving.;complained
+10;Pedrick had a lot of other ______ ideas for vehicles, like a bicycle you can ride underwater;inventive
+11;So, uh, sorry, it’s just- I mean, a car you drive from the back seat? An ______ bicycle? Why would anyone want these things? He sounds crazy.;underwater
+12;Well, I prefer the word “eccentric”. And it’s true that none of his inventions were ever actually ______ or sold.;produced
+13;And it’s also true that some of his patent applications were more than a little strange-a lot of them made references to his pet cat, for _____.;instance
+14;Ok, but I still don’t get it. If his _______ were never going to be made, why patent them? I mean, what’s the point?;inventions
+15;True. I see what you’re saying. But that really brings me to the point I wanted to make today, which is that engineering isn’t just about making _______ things like bridges and computers.;practical
+16;And it’s not just about making _____, either, although obviously, who doesn’t like money?;money
+17;You see, what Pedrick did was he looked for _____ in the world, and he tried to solve them.;problems
+18;And some were small problems like being bad at golf. But he also worked on ______ to the really big ones, like ways to prevent nuclear war, or how to deal with world hunger.;solutions
+19;Drawing c is a _____ example of that.;prime
+20;Good afternoon. You’re listening to Bright Conversations, and I’m your host, Ruth Chang. Now to Science, _______ used to make light bulbs, cell phones, and other devices.;inventors
+21;Now they are inventing living things. They started with ________ modified plants: corn, tomatoes, things like that.;genetically
+22;Now an American company wants to patent a genetically modified ______.;salmon
+23;If their ________ is approved, it will be the first patent ever for a living thing that we eat.;application
+24;Clara Emerson is a spokesperson for the Future Food Institute, a group that ________ the biotech industry.;represents
+25;It tastes just as _______ as salmon from the ocean, and in fact, chemically, the meat is exactly the same.;delicious
+26;What makes this salmon special is it has a ____ that lets it grow faster.;gene
+27;So, a normal salmon takes up to three years to reach full ____, but the genetically modified salmon gets there in about 18 months.;size
+28;And the ______ of this is…. what, exactly? It costs less to produce?;advantage
+29;It costs less to produce, yes. But more importantly, it means we can raise the fish in ____, away from the ocean.;tanks
+30;And that sort of ______ all of the pressure that salmon fishing and salmon farming have been putting on the environment… and also on the salmon themselves.;relieves
+31;The problem with salmon today is that people like it too much. The _____ for salmon is far greater than the number of fish in the ocean.;demand
+32;In places like the North Atlantic, wild salmon are already almost _____.;extinct
+33;One result of this is the “aquaculture” industry-companies that try to raise their salmon in underwater farms near the ____.;shore
+34;What’s happening is the farm-raised salmon still take too long to ____ to full size.;grow
+35;And during that whole time they’re in these pens, and a lot of waste and _______ chemicals are getting into the ocean.;unhealthy
+36;If you can grow the fish faster and grow them in land then you can solve those problems and that’s exactly what this new salmon ______ to do.;promises
+37;That’s all well and good, but it raises a very ________ question for the patent office.;interesting
+38;Can you really patent a living thing? I spoke with Steve Clauson of Anglers United, a trade association for fishermen that _____ the patent application.;opposes
+39;It’s not about genetically modified or not. I don’t ___ about that.;care
+40;What we’re saying is, look, salmon were around millions of years before us. How could anyone claim we _____ them?;invented
+41;But in fact, claims like this are being made almost every day. Deborah Shatah is a science _______ and the author of a book on genetically modified organism.;journalist
+42;There are actually dozens, perhaps hundreds now-these genetically modified plants and ______ which have receive patents.;animals
+43;Some are very _____, very inventive.;clever
+44;It’s plants we eat like tomatoes and beets. It’s the cotton in our clothes, to cite another _____.;example
+45;And it’s, er, many, many different kinds of mice which ______ use in research.;scientists
+46;Companies spend millions and millions, er, inventing these animals, and so they need the patent because they want to get that _____ back.;money
+47;Because the patent says that only that ______ can produce and sell the animal.;company
+48;And this is exactly what concerns people like Steve Clauson, from the fishermen’s group. He _____ that the patented salmon will get into the ocean and then, after some time, into the nets of fishermen.;worries
+49;But the ______ won’t have the right to sell the fish.;fishermen
+50;The problem is, we can’t sell a patented fish. The company could take us to court. So, do fisherman need to do ____ tests on every fish they catch?;genetic
+51;That’s just not _____.;realistic
+52;Clara Emerson of the Future Food Institute ________ this concern.;acknowledges
+53;We understand this is a worry, but remember, this is exactly why the fish are going to be raised very far from the ______, so they can’t get into the ocean.;ocean
+54;Ok, now.. I think, ______, a  lot of these fishermen’s groups are just concerned that this new salmon, which is raised in water tanks on land-so you don’t need a fisherman to catch it;honestly
+55;You know, they’re just worried it’s going to put them out of ______.;business
+56;Well, sure. But isn’t that a fair concern? Of course, and no one likes to see people lose their jobs. But no one wants to see salmon go _____ either.;extinct
+57;And that’s exactly what all of this overfishing is causing. On this point, at least, everyone seems to ____. Steve Clauson again.;agree
+58;Obviously, there are real problems with the salmon ______, with the environment of the ocean, and we’re all concerned about it.;industry
+59;But we need a _______ that benefits the ocean, the fish-but also the men and women and families who make a living on the water.;solution
+60;The patent office will make a decision soon, and we’ll be here to bring you to the latest on this ______ and fascinating issue.;complex

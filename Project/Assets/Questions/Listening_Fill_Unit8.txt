@@ -1,0 +1,61 @@
+﻿8
+1;And now, here’s Claire Nelson with a report on ______ – people who can’t or won’t throw anything away, until their homes are completely filled with things.;hoarders
+2;I’m visiting the home of Lisa Dobson. She’s an ______ at a local school, where her desk is always neat and tidy.;administrator
+3;Her home, however, is a different story. We ring the front ______.;doorbell
+4;Sorry. This door doesn’t work – I mean, you can’t get in this way. It’s uh, it’s blocked with _____, unfortunately.;stuff
+5;We ____ through the back door.;enter
+6;There is stuff everywhere – newspapers, clothing, scraps of paper, old toys. The ____ are shoulder-high.;piles
+7;Oh, it’s all useful. People say it’s ____, but not to me.;junk
+8;This newspaper is an interesting article – uh, it has a very interesting article I want to show my ______.;daughter
+9;And these bags all have ____ for people. Just in case I need to give a present.;gifts
+10;Lisa’s hoarding is causing _____ in her family.;strain
+11;She and her husband argue ______. Her teenage children never bring their friends to the house.;constantly
+12;I told myself a million times that I would ____ the place up. But the longer I waited, the harder it was.;clean
+13;So, what exactly is hoarding, and what causes it? I spoke to Fredrick Taylor, a _______ who specializes in hoarding.;psychologist
+14;The basic problem hoarders face is an inability to make decisions and ______ things.;categorize
+15;A piece of junk mail may seem like trash to us, but to a hoarder it’s full of meaning and _______.;possibility
+16;Also, they connect objects to people in their lives. Many, many of these _____ are being saved for others.;objects
+17;In a way, those are very positive _____.;traits
+18;Absolutely. They find details in things that ______ people miss.;ordinary
+19;So how is hoarding different from _______?;collecting
+20;Well, everyone collects things and everyone is _____ sometimes.;messy
+21;Hoarding is when your possessions _____ your ability to live your life.;impair
+22;You can’t have ____ in your home. You can’t cook because your kitchen is covered in piles.;guests
+23;They have difficulties _______ and making decisions, as Dr. Taylor noted earlier.;categorizing
+24;In addition, many hoarders are ________.;perfectionists
+25;For example, they don’t want to forget anything, ever. So they save every _____ of information that comes their way.;scrap
+26;One ______ about hoarding is that it is caused by deprivation in the past.;misconception
+27;One thing researchers have observed, though, is that _____ hoarders had difficult relationships with their parents, especially their fathers.;numerous
+28;______ a filing system is a good start. The sooner, the better.;Establishing
+29;And they need someone to ____ them in making decisions about every object.;assist
+30;She set up a filing system with Dr. Taylor and dramatically reduced the _____ in her home.;clutter
+31;Good afternoon. Today’s class is on ______. Why do people do the things they do?;motivation
+32;Specifically, I’m going to discuss one theory of motivation, the hierarchy of needs ______ by the American psychologist Abraham Maslow.;proposed
+33;Now, Maslow wanted to _____ all of the needs that people have in life.;identify
+34;These are ______ needs that exist in any place or culture or period of history.;universal
+35;So this includes everything from the need to breathe – which is obviously a very _______ one – to other needs like friendship, respect, and self-improvement.;fundamental
+36;In addition, Maslow also wanted to ____ the value of these needs.;rank
+37;If you remember one thing about Maslow’s theory, remember that it’s a _______.;hierarchy
+38;Now, when people describe Maslow’s theory, they often use a _____ like the one I’m putting on the board now.;pyramid
+39;The lowest, most basic needs are at the bottom. And at the very top are the highest, the most _____ needs.;advanced
+40;According to Maslow, you can’t ______ the needs at the top until you satisfy the higher-priority ones at the bottom.;satisfy
+41;So, everyone, please _____ that you copy this pyramid down.;ensure
+42;Now, let’s look at each ___ of the pyramid one by one. I’ll write some needs for each level of the pyramid, and you can suggest some, as well.;tier
+43;So first, at the bottom, are the lower-level _______ needs.;physiological
+44;Perfect. Water and sleep. Thank you, Todd. Also, let’s add _____. Everyone needs a place to live, after all.;shelter
+45;Now, once a person has satisfied the physiological needs, he or she can start to think about the next level up, _____.;safety
+46;You need to feel safe from being hurt, _____, or killed.;injured
+47;But this level also includes other kinds of safety. For example, there’s the ______ of your possessions.;security
+48;You don’t want people ______ your stuff.;stealing
+49;There’s also job security. You don’t want to lose your _____.;income
+50;Your physiological and safety needs are met, so you’re ready to think about love and ______.;belonging
+51;People want to be part of a group. That can include your family. It also includes your friends. Any other ideas? _____, maybe?;marriage
+52;So, that brings us to the next level, the last of the basic needs: ___-____.;self esteem
+53;So this level is all about _____. Make sure you get that word in your notes: respect.;respect
+54;You want others to respect you. And in addition, you need to respect yourself. Those are ____ needs at this level.;vital
+55;So now we get to the top level, ____-________.;self actualization
+56;If you’re an _____, you have a need to be as good at your sport as you can.;athlete
+57;Maybe you want to be the best parent you can be, the best scientist … I think you get the _____.;concept
+58;And that is, not everyone agrees with the way Maslow has _____ these needs in a hierarchy.;ranked
+59;Many researchers today think that this hierarchy does not ___ every culture.;fit
+60;Remember, Maslow was American, and in the US people ______ place a high value on self-actualization.;definitely

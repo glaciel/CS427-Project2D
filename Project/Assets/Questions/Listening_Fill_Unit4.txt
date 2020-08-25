@@ -1,0 +1,88 @@
+﻿4
+1;Every day, people all over the world use fire for ____, for light, and for cooking.;heat
+2;It’s hard to _____ what life would be like without fire.;imagine
+3;Today we’re going to look at a _____ in history: the discovery of the controlled use of fire.;landmark
+4;By controlled, I mean when people started making and _______ fires for use in their daily lives.;maintaining
+5;We aren’t absolutely sure when fire was first ____ regularly, but evidence suggests it was between three hundred and four hundred thousand years ago.;used
+6;In addition, there are only _____ about how the discovery was made.;theories
+7;However, we do know the discovery of the controlled use of fire _______ changed the lives of our ancestors in fundamental ways.;dramatically
+8;First, fire provided ____. This allowed people more choices about where to live.;warmth
+9;For example, people could live in colder _____ that had been too cold to live in comfortably without a source of heat.;climates
+10;Second, fire provided _______ from wild animals. Most animals don’t like fire.;protection
+11;If our ______ built a large fire at night, they were warmer, and safer from animals as they slept.;ancestors
+12;Third, the controlled use of fire _____ people to cook food.;enabled
+13;Actually, being able to cook food was a major _______ for our ancestors.;turning point
+14;The impact on their food choices and ______ was significant.;nutrition
+15;Up until the ______ of fire, food was eaten raw.;discovery
+16;Cooking food allowed people to _____ more nutrients and absorb more calories.;digest
+17;This means they received much more benefit from eating cooked ___. The same was true for plants.;meat
+18;There were many plants that had been too ___ to chew, or too difficult to digest, or too unsafe to eat when they were raw but could be eaten after they were cooked.;hard
+19;Cooked food was especially _____ to babies, young children, and older people.;helpful
+20;Furthermore, cooking helped to ______ food. Thus, it could be kept and used for several days. People didn’t have to eat it all right away.;preserve
+21;In general, then, the controlled use of fire allowed people to have more food choices day to day and thus _____ a better diet.;maintain
+22;As our ancestors adapted to eating a wider range of food, they were able to ______ longer and were healthier.;survive
+23;Finally, the controlled use of fire allowed for more _______ at night.;socializing
+24;Activities were no longer _______ to daylight hours.;restricted
+25;At night, people could build a fire, and sit together to tell stories, sing, talk, and share their ideas. This clearly was a major ________ in our social history.;landmark
+26;A final point I’d like to make: The discovery of the controlled use of fire has been _______ as an important step in our use of technology.;described
+27;For many of us, the word technology immediately brings to mind electronics-computers, mobile phones, and so on. However, technology can also be described as the ______ of knowledge to improve our lives.;application
+28;The controlled use of fire then, to cook food and warm water fits this _______ and therefore needs to be considered as an important advance in our use of technology.;definition
+29;In this report, we’re going to look at how a forest fire is both friend and foe. It’s a foe, that is, an ______ because a forest fire can become a natural disaster.;enemy
+30;A forest fire can ____ through an area quickly and destroy almost everything: homes, trees, buildings, animals, and people.;sweep
+31;For example, the Black Saturday bushfire in Victoria, Australia on Feb 7, ____, was one of the worst in recorded Australian history.;2009
+32;Over ____ homes were destroyed, and many people and animals were killed.;2000
+33;Many forest fires are accidentally started when someone drops a ______ cigarette or a match or builds a small fire;burning
+34;Soon that fire gets out of _____ and starts to spread.;control
+35;Every day, there are hundreds of _____ fires all over the world.;forest
+36;When a forest fire _____ out, most people think the best response is to get the fire under control and extinguish it as quickly as possible.;breaks
+37;They know a forest fire can have a terrible _____.;impact
+38;They want to preserve people’s homes and avoid _______, if possible.;destruction
+39;Actually, controlling the fire isn’t always the best idea. We now know that forest fires play an important role in keeping the forest healthy and the ______ of a forest in balance.;ecosystem
+40;After forest fires ____ away dead trees and plants on the floor of the forest, this provides open space for new plants to grow.;clear
+41;The new, small plants are low to the ground and ___ for small animals to get to for food.;easy
+42;These new plants also provide more ______ for animals than older plants.;nutrition
+43;In short, a forest fire is a bit like cleaning a house, the fire _____ out the dead wood and plant clutter in the forest.;clears
+44;Afterward, it’s a ______ place for trees, plants, and animals to live.;healthier
+45;The fire also makes it ____ for the people living nearby because by removing dead trees and plants, it lowers the risk of hotter, bigger fires in the future.;safer
+46;Researchers have found that trees, plants, and insects that live in areas that frequently have many forest fires ____ to these conditions in order to survive.;adapt
+47;For example, the cork oak tree doesn’t burn _____.;easily
+48;After a forest fire, the outer part may burn, but the inner part of the cork oak tree is still alive, and the tree continues to ___.;live
+49;They’ve also found that forest fires ______ certain trees, animals, and insects in specific ways.;benefit
+50;Some trees need fires to ____ their seeds.;spread
+51;In Australia, there is a tree-like bush called the banksia bush. When the banksia bush ____, its cones get scorched, and then the cones open.;burns
+52;The seeds are released, and eventually, new trees start to ___.;grow
+53;The point is, the cones must ___ burned a bit before they will open and drop new seeds.;get
+54;Other types of trees, such as pine and oak, also need fire to crack their seeds open in ____ for the seeds to grow.;order
+55;By doing this, fire helps to _____ the forest.;maintain
+56;One insect that benefits from fires and has ______ well is the blue beetle.;adapted
+57;The blue beetle has heat sensors that enable it to detect a forest fire __ miles (50 kilometers) away.;30
+58;You might think the beetle would use its heat sensors to ____ the fire, but it does just the opposite.;avoid
+59;When it senses a fire, it starts flying into the ______ area.;burning
+60;As soon as the fire ______ burning through the area, the beetle lands and lays its eggs in the fire-burned trees.;finishes
+61;The beetle knows this wood is an excellent food _____ for its eggs.;source
+62;Consider this: if the beetle laid its eggs before the fire swept through, the fire would _____ them.;destroy
+63;We can see here some of the positive ______ of forest fires. Yet, they can cause terrible damage.;outcomes
+64;The question is: if we don’t extinguish a fire right away, does the destruction _____ the advantages?;outweigh
+65;This is difficult to say. After a fire, a sequence of events takes place which restores the forest’s _______.;ecosystem
+66;First, fast-growing plants and grasses start to grow. Then slower-growing plants _____, and then, lastly, new trees grow.;emerge
+67;The first steps happen quickly, but it can take many years for a forest to return to _____.;health
+68;Hi, Ron. What are you up to? Oh, I’m just reading. This is a great article about _______.;mythology
+69;Really? What’s so good about it? I think it’s really interesting. They are talking about ____ in mythology.;fire
+70;Oh, you mean the Greeks I _____.;suppose
+71;Yes and no. According to this article, there are ____ in lots of cultures, including Greek.;myths
+72;All over the world you find stories and legends about fire, I suppose fire was a very important part of people’s lives – and ____ sometimes, if it got out of control.;deaths
+73;Listen to this story from the Amazon Indians of Brazil, about how fire was started. Listen, “In Brazil, a _____” – you know, a big cat – “took a boy to his cave.;jaguar
+74;The boy watched the jaguar cooking on a fire. When the boy had a chance, he stole a piece of burning ___ and ran back to his people.;coal
+75;He gave them fire and showed them how to cook. It’s pretty _____ really.;strange
+76;Yes, very. But it’s a bit like the story of Prometheus, the mythical Greek hero. He is supposed to have stolen fire from the gods and given it to ____. I remember that from school.;humans
+77;There is another story here that you might like. It’s pretty _____, because the animals seem to know more than the humans do.;similar
+78;It’s from a Pacific island. A snake gave some fish to his children, who were human, and told them to ____ it.;cook
+79;Instead of cooking the fish, the children just put it in the sun to heat up and ate it ___, so the snake showed them how to make fire and cook the fish.;raw
+80;You see, it’s similar to the other one, really, don’t you think? And it says that African _____ have myths where animals teach humans about fire, like the ancient San tribe in South Africa…and lots of others.;tribes
+81;Oh, really. That is strange. Are there any more stories? Well, there are some from China too. There is one where somebody _____ …wait a minute… yes, here it is…called Huy Lu.;called
+82;Huy Lu was a ______ and a fire god who kept birds - firebirds - 100 of them in a pot.;magician
+83;He would free them ______ he wanted, and they would fly away and start fires all over the country.;whenever
+84;I don’t know why he wanted to do that though. It ____ a bit strange to me.;seems
+85;Okay, so can I read it after you? Why? I thought you said it was _____?;boring
+86;No I didn’t! I just asked what you were doing. And actually, it might be useful. I have to write an essay about different cultural _______ this week.;traditions
+87;I could do it on that. It would be different anyway. Okay. Give me five ______ and it’s yours.;minutes

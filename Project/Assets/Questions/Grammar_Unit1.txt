@@ -1,0 +1,31 @@
+﻿1
+1;Mid-day we walk along the Embarcadero in San Francis ……….. a cold wind whips our hair across our faces.;but;so;because;though;though
+2;This is why we live here, isn't it? ......... we love the view of the bay and the smell of the saltwater, we endure the traffic and the crowds.;Because of;Although;As;So;As
+3;Pay attention to your work …… you will not make mistakes.;so that;unless;or;so that
+4;The musicians delivered a rousing performance …… they had rehearsed often.;though;as;once;as
+5;She’s honest ……… everyone trusts her.;If;So;When;So
+6;I plan to take my vacation……… in June …… in July.;Whether/or;either/or;as/if;either/or
+7;My car has a radio ……… a CD player.;but;or;and;and
+8;Carol wanted to drive to Colorado, ………… Bill insisted that they fly.;but;or;and;but
+9;I have to go to work at six, ………… i’m waking up at four.;yet;so;but;so
+10;I was on time, ……… everyone else was late.;so;but;for;but
+11;Nadia doesn’t like to drive, ……… she takes the bus everywhere.;but;yet;so;so
+12;………… my grandmother is very old, she can still read without glasses.;even if;however;although;although
+13;………… the policemen ran fast, they couldn’t catch the thief.;though;even if;as though;though
+14;………… they gave him the best medical care, they could not save his life.;however;though;although;although
+15;………… she had the required qualifications, she did not get the job.;As though;Even if;Although;Although
+16;……… they are rich, they live simple lives.;though;although;as though;though
+17;……… she was ill, she went to work.;though;however;despite;though
+18;Lucy, will you lay the table ……… i help your sister with her maths exercise, please.;Whereas;While;A while;While
+19;The twins are very different: Paul is shy and reserved …… Dennis is outgoing.;While;Whereas;A while;Whereas
+20;At school, I have difficulties with languages …… I’m very good at maths. I don’t know why.;While;Whereas;Because;Whereas
+21;Will you watch the baby ……… i’m taking care of getting your luggage ready?;Whereas;Although;While;While
+22;Dad would like to have a holiday in Spain ……… Mom would prefer Italy.;Whereas;Although;While;Whereas
+23;In India, August is quite a cool month …… it can be quite scorching in Chicago.;While;Whereas;Because;Whereas
+24;……… I was sitting on the seafront, he was playing volleyball.;A while;While;Whereas;While
+25;I spent…… looking at the boats in the distance.;While;Whereas;A while;A while
+26;It was cold…… I shut the window.;So;Because;As;So
+27;The door was open ..... I closed it.;Because;So;although;So
+28;I’m tired today …… i couldn’t sleep last night.;So;Because;When;Because
+29;We walked home ……… there were no more buses;so;then;because;because
+30;She quit her job …… she is looking for a new one now.;So;Because;when;So

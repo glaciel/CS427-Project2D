@@ -1,0 +1,12 @@
+﻿6
+1;Sarah thinks she _____ left her purse on the bus.;must have;must has;might;must have
+2;It _____ John who stole the money. He was with me the whole night.;might not be;can't have been;must have been;can't have been
+3;John ____ have gone on holiday. I saw him this morning downtown.;must;might;can't;can't
+4;Nobody answered the phone at the clinic. It ____ have closed early.;must;can't;should;must
+5;I _____ have revised more for my exams. I think i’ll fail;must;can't;should;should
+6;I can’t believe Jim hasn’t arrived yet. He _____ have caught the wrong train.;must;might;should;must
+7;I can’t believe Jim hasn’t arrived yet. He _____ have caught the correct train.;must;might;should;should
+8;Don’t lie to me that you were ill yesterday. You ____ have been ill. Don said you were at the ice hockey match last night.;must;can't;should;can't
+9;I don’t know where they went on holiday but they bought Euros before they left so they ____ have gone to France or Germany.;must;might;should;might
+10;His number was busy all night- He ___ have been on the phone continuously for hours.;can't;might;must;must
+11;It ____ have been Mickey, I saw at the party. He didn’t recognize me at all.;can't;might;must;can't

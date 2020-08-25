@@ -1,0 +1,67 @@
+﻿5
+1;When you think of traditional Italian _____, what comes to mind? Eric?;cuisine
+2;That’s easy. ____ with tomato sauce.;pasta
+3;Coffee and tomatoes are key parts of Italian cuisine. But do you know where these things are from ______?;originally
+4;Tomatoes are originally from South America and Mexico, and they didn’t come to Italy until the ____s.;1500
+5;Coffee _____ around the same time.;arrived
+6;Coffee beans first grew in Ethiopia, then became a ______ in Yemen and other places.;beverage
+7;Much later, Italians adopted the _____.;custom
+8;This is true of a lot of so-called _______ cuisine.;traditional
+9;We know the English love their tea and sugar, but tea is originally from ____, and sugar is from the Middle East.;China
+10;And traditional Chinese food uses ____ chili peppers – but no one in China had ever seen one until the 1500s.;spicy
+11;What made all of this possible was international ____.;trade
+12;So, today, I want to talk about two major trade _____ from history: the Silk Road and the Columbian Exchange.;networks
+13;One of the first ______ trade networks was the Silk Road.;significant
+14;This started more than ___ thousand years ago.;two
+15;It was actually several different _____ between China and Europe, passing through the Middle East.;routes
+16;A lot of goods were _____ along the Silk Road.;traded
+17;European countries imported silk from China, along with ______.;porcelain
+18;At that time, only China had the ______ to make these goods.;technology
+19;For thousands of years, silk and porcelain were China’s most important _____.;exports
+20;People also traded black pepper and ____ from India, gold from Europe, and more.;ivory
+21;The Middle East was at the very center of the Silk Road and, in many ways, ______ it.;controlled
+22;_____ in that part of the world gained huge profits – and political power – from the trade network.;merchants
+23;The second network is the Columbian Exchange. These trade routes ______ after Christopher Columbus’s ships landed in the Americas in 1492.;developed
+24;Now, unlike the Silk Road, the Columbian Exchange was a truly _____ trade network.;global
+25;Whereas the Silk Road _____ Europe, Asia, and Africa, the Columbian Exchange also included the Americas.;connected
+26;Another difference is that the Columbian Exchange did not _____ as much on traders in the Middle East.;depend
+27;That was one reason why Columbus made his _____ – Chinese silk was still a key European import, and he wanted to find a direct route from Europe to China.;voyage
+28;Much of the produce you see in the supermarket today was originally from the Americas – potatoes from Peru, ____ from Mexico, chili peppers from South America, even chocolate.;corn
+29;Another example is _____, which came from trees in Brazil.;rubber
+30;Another similarity to the Columbian Exchange is that, even today, almost 90% of the world’s cargo is still ____ by sea.;shipped
+31;Instead of silk, China produces and exports clothing, _______, and more.;electronics
+32;So, as you can see, international trade has been _____ our cuisines and cultures for a very long time!;shaping
+33;Right, everyone, let’s begin. I’d like to introduce the topic we’re going to be discussing this week, and that’s _______.;urbanization
+34;Some scholars say this movement from ____ to urban is the biggest migration in human history.;rural
+35;That’s a big claim, but the statistics are very ______.;compelling
+36;Between now and the end of the 21st century, about ____ billion people will move from the village to the city.;three
+37;Right now, about 50% of the world’s people live in cities, but by 2050 that number will be about __%.;70
+38;Sorry, I was just _____ why so many people move to cities. Is there one main reason for it?;wondering
+39;Urbanization is happening very quickly and _______.;dramatically
+40;Let me just give you some statistics to ______ this point.;illustrate
+41;In the year ____, there were 86 cities with more than a million people.;1950
+42;That’s 86 for the whole world. Today there are ___.;400
+43;One of those Chinese cities is Shenzhen That’s where the iPhone and other high-tech _____ are made.;devices
+44;Now, Diana wants to know whether there is one main ____ of urbanization.;cause
+45;The answer is _____.;simple
+46;Life in a rural village is not ____.;easy
+47;I know we see pictures of rural Asia or Africa and think, ‘Wouldn’t it be wonderful to live there? Life must be so much _____!’;simpler
+48;Well, in fact, there are about a billion people in the world now who are living on less than a dollar a day, and threequarters of them are small farmers in ________ villages.;agricultural
+49;There’s _____, hunger, and disease in the village, and people don’t live as long.;poverty
+50;A lot of these migrants are living in ____ – about a billion people, in fact, according to the U.N.;slums
+51;These places can be _____, dirty, and sometimes dangerous, but they also do a lot of good for people.;crowded
+52;For one thing, some so-called ‘slums’ are really not that bad. There may not be clean water, but there is cable TV, Internet access, and access to public ________.;transportation
+53;These connections can help you find a job, ____ you money to start a business, mind your kids while you’re working, and so on.;loan
+54;And the houses may be small and simple, but in a lot of cases, the people actually ___ them.;own
+55;In some slums, the rate of home ownership is as high as __%.;85
+56;In addition to this, it’s important to note that not all ______ have these issues.;megacities
+57;Shenzhen, for instance, is a totally _____ city.;planned
+58;Most of the workers there live in ______ in the factories.;dormitories
+59;Another interesting fact about urbanization in China is that the ____ majority of the factory workers are female.;vast
+60;This is just one example of how urbanization is increasing _______ for women around the world.;opportunities
+61;So, even though there are some concerns about urbanization, it can have some very _____ effects.;positive
+62;Number one, it has lifted millions and millions of people out of _____.;poverty
+63;Although some areas of these cities are very poor, the people who arrive there often move into the _____ class – or at least their children do.;middle
+64;Also, the migrants in the city send money back to the villages. A lot of money, actually – $250 billion dollars a year, according to one ______.;estimate
+65;People in cities have smaller families, and thanks to _____ transportation, they use less energy.;public
+66;That is great news for the environment, for global warming, and for a number of other ____ we face in the future.;issues

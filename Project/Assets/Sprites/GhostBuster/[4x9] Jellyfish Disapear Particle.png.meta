@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: fe4096b2f5e492a4d99ff28f0c56fa3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[4x8] Jellyfish Disapear Particle_0'
+    21300002: '[4x8] Jellyfish Disapear Particle_1'
+    21300004: '[4x8] Jellyfish Disapear Particle_2'
+    21300006: '[4x8] Jellyfish Disapear Particle_3'
+    21300008: '[4x8] Jellyfish Disapear Particle_4'
+    21300010: '[4x8] Jellyfish Disapear Particle_5'
+    21300012: '[4x8] Jellyfish Disapear Particle_6'
+    21300014: '[4x8] Jellyfish Disapear Particle_7'
+    21300016: '[4x8] Jellyfish Disapear Particle_8'
+    21300018: '[4x8] Jellyfish Disapear Particle_9'
+    21300020: '[4x8] Jellyfish Disapear Particle_10'
+    21300022: '[4x8] Jellyfish Disapear Particle_11'
+    21300024: '[4x8] Jellyfish Disapear Particle_12'
+    21300026: '[4x8] Jellyfish Disapear Particle_13'
+    21300028: '[4x8] Jellyfish Disapear Particle_14'
+    21300030: '[4x8] Jellyfish Disapear Particle_15'
+    21300032: '[4x8] Jellyfish Disapear Particle_16'
+    21300034: '[4x8] Jellyfish Disapear Particle_17'
+    21300036: '[4x8] Jellyfish Disapear Particle_18'
+    21300038: '[4x8] Jellyfish Disapear Particle_19'
+    21300040: '[4x8] Jellyfish Disapear Particle_20'
+    21300042: '[4x8] Jellyfish Disapear Particle_21'
+    21300044: '[4x8] Jellyfish Disapear Particle_22'
+    21300046: '[4x8] Jellyfish Disapear Particle_23'
+    21300048: '[4x8] Jellyfish Disapear Particle_24'
+    21300050: '[4x8] Jellyfish Disapear Particle_25'
+    21300052: '[4x8] Jellyfish Disapear Particle_26'
+    21300054: '[4x8] Jellyfish Disapear Particle_27'
+    21300056: '[4x8] Jellyfish Disapear Particle_28'
+    21300058: '[4x8] Jellyfish Disapear Particle_29'
+    21300060: '[4x8] Jellyfish Disapear Particle_30'
+    21300062: '[4x9] Jellyfish Disapear Particle_0'
+    21300064: '[4x9] Jellyfish Disapear Particle_1'
+    21300066: '[4x9] Jellyfish Disapear Particle_2'
+    21300068: '[4x9] Jellyfish Disapear Particle_3'
+    21300070: '[4x9] Jellyfish Disapear Particle_4'
+    21300072: '[4x9] Jellyfish Disapear Particle_5'
+    21300074: '[4x9] Jellyfish Disapear Particle_6'
+    21300076: '[4x9] Jellyfish Disapear Particle_7'
+    21300078: '[4x9] Jellyfish Disapear Particle_8'
+    21300080: '[4x9] Jellyfish Disapear Particle_9'
+    21300082: '[4x9] Jellyfish Disapear Particle_10'
+    21300084: '[4x9] Jellyfish Disapear Particle_11'
+    21300086: '[4x9] Jellyfish Disapear Particle_12'
+    21300088: '[4x9] Jellyfish Disapear Particle_13'
+    21300090: '[4x9] Jellyfish Disapear Particle_14'
+    21300092: '[4x9] Jellyfish Disapear Particle_15'
+    21300094: '[4x9] Jellyfish Disapear Particle_16'
+    21300096: '[4x9] Jellyfish Disapear Particle_17'
+    21300098: '[4x9] Jellyfish Disapear Particle_18'
+    21300100: '[4x9] Jellyfish Disapear Particle_19'
+    21300102: '[4x9] Jellyfish Disapear Particle_20'
+    21300104: '[4x9] Jellyfish Disapear Particle_21'
+    21300106: '[4x9] Jellyfish Disapear Particle_22'
+    21300108: '[4x9] Jellyfish Disapear Particle_23'
+    21300110: '[4x9] Jellyfish Disapear Particle_24'
+    21300112: '[4x9] Jellyfish Disapear Particle_25'
+    21300114: '[4x9] Jellyfish Disapear Particle_26'
+    21300116: '[4x9] Jellyfish Disapear Particle_27'
+    21300118: '[4x9] Jellyfish Disapear Particle_28'
+    21300120: '[4x9] Jellyfish Disapear Particle_29'
+    21300122: '[4x9] Jellyfish Disapear Particle_30'
+    21300124: '[4x9] Jellyfish Disapear Particle_31'
+    21300126: '[4x9] Jellyfish Disapear Particle_32'
+    21300128: '[4x9] Jellyfish Disapear Particle_33'
+    21300130: '[4x9] Jellyfish Disapear Particle_34'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_0'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1760
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4a758ef04c63c4c8b172a19b94678b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_1'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1760
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e0a8722d2577a429f8f702ecb5ae8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_2'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1760
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff92359086ebf4f97e393de6695fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_3'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eade3cbde704642a837b3714fe26d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_4'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1540
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4951bd27466911a4fb608f8119187d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_5'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1540
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f993a1ef9810c64f8a25c31f7705253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_6'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1540
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196caa8cb36c8fa4a8740335933c7dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_7'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14bbac4c921e3244b9496737af66286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_8'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1320
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4ae6df30d7e341aa5074928a55162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_9'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1320
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c08137f4e3aa5448d585885c462b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_10'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1320
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d0377045b3d5b4ab063cfb09e4e1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_11'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea3e1e3cdad7c4883e63d6de86f0d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_12'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1100
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0d0406e2270044e9ce7ce97f9453af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_13'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1100
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07423be80970d194cb8df03570e273b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_14'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1100
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a503dc503b35548bad300256adaf2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_15'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101c34f2938a054fb04a5e7b066ce72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_16'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 880
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f608786a5ccac9469568ce009b4bc3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_17'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 880
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee78937dc956f44db2d09be9221233f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_18'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 880
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d335cc69d6be468767b784b5dc920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_19'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1c5492e54adc4190e970f5eb74ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_20'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 660
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58e94d5e9166d4c953fc7c9ba3c9d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_21'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 660
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3968b5b954a44a95579546c3c0a1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_22'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 660
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8fa1b1202fa849afb24b373c2d737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_23'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84293e4eff291054ba8108d6a54946f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_24'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 440
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e5aaf5a123ce4885409e32b65f88d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_25'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 440
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed8739b69de1b44b2374ef55351928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_26'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 440
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749a8e5856044b41845178c5c287afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_27'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b29b7ce6c88c44862412a8b745d04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_28'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613c273ccddd834bac88c9fb340d42c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_29'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 220
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6a21fba4683348917ba446db5e6c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_30'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 220
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e0f2dacdb98a45be46c1c4df27737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_31'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea72f976c05f6745a3cd193e0160b3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_32'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ff7394bf7c4d4da726d4aad8a5b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_33'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f460120e90835a44289aa7efc4ef7395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x9] Jellyfish Disapear Particle_34'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 456
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aac660bfdcd0f442b07fdc4cb93300b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 704991a4c78a64647bc9054f09934e8c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

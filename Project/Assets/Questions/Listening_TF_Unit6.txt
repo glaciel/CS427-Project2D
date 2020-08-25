@@ -1,0 +1,21 @@
+﻿6
+67;Germs include both bacteria and viruses.;T;Tuberculosis is caused by a type of virus.;F;All germs are harmful.;F;The germs in our bodies prevent food from being digested.;F
+68;We do not need to worry about germs as they don’t harm us.;F;Some germs do not cause diseases.;T
+69;It’s true that money is a major way of causing diseases to spread.;F;The number of bacteria on a banknote varies.;T;It is advised that we clean our hands before handling money.;F;It is possible that money is a way of transmitted harmful germs.;T
+70;The circulation of air on the airplane always spreads dangerous germs.;F;Nowadays, filters are used to remove germs on airplanes.;T;The seat tray or door handle on the airplane can be germs transmitter.;T;You may be coughing and sneezing on the airplane because of the air filter system.;F
+71;The professor recommend people to clean the kitchen with a wet cloth or a sponge.;F;Food can pick up bacteria right at the moment it touches the floor.;T
+72;The speaker is going to talk about the investigation of epidemics in West Africa and in an island in the Pacific Ocean.;T;The researchers need to carry out in-depth investigations to find out what causes the disease.;T
+73;The Schistosomiasis is caused by a virus living in the river.;F;The parasite in snails can get transmitted by the water to the people’s skin.;T
+74;A person will surely die after getting Schistosomiasis.;F;Though well known all over the world, nobody in Senegal knew the Schistosomiasis until 1986.;T
+75;At first, the Diama Dam was suspected to be the cause of the disease.;T;19% of the population came down with the disease in 1988.;F
+76;The researchers only focused on the increase in snails in the Senegal river.;F;The researchers found out that after the dam was built, there were fewer prawns in the river, which led to the increase of the snails.;T
+77;After the building of the dam, the prawns in the river became extinct.;T;The prawns died off due to the fact that there were no food left to eat.;F
+78;The increase in snails resulted in the exceed in the number of parasites in the river water.;T;At that time, the medicine could both prevent and treat the disease.;F
+79;They decided to kill the snails to get rid of the disease.;F;By restoring the environmental conditions, researchers hope that prawns would be able to survive again.;T
+80;Project Crevette is launched to give people medicine to treat the disease.;F;The project is set out to solve the root cause of the disease.;T
+81;The lytico-bodig reached its peak early in the 20th century.;F;After 1940, the disease started to spread significantly.;F
+82;The researchers started to carry out investigation when the disease was spreading significantly.;F;The researchers investigated the terms of conditions before and after the epidemic.;T
+83;The Chamorro people used a flour made of a seed containing toxin.;T;Toxin was said to be the main cause of the disease.;T
+84;The fact that the seed had been washed to remove the toxin made the explanation invalid.;T;Men came down with the disease more than the women.;T
+85;The researchers found out that women ate more flying fox than men.;F;The seed toxin became highly concentrated in the meat of the flying foxes.;T
+86;Because men ate more flying foxes than the women, they were more vulnerable to the disease.;T;When the flying foxes became endangered and no one could eat them regularly, the disease disappeared.;T

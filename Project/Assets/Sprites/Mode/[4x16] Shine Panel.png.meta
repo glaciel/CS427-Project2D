@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 52ec4170669f18c40963119bd855d941
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[4x15] Shine Panel_0'
+    21300002: '[4x15] Shine Panel_1'
+    21300004: '[4x15] Shine Panel_2'
+    21300006: '[4x15] Shine Panel_3'
+    21300008: '[4x15] Shine Panel_4'
+    21300010: '[4x15] Shine Panel_5'
+    21300012: '[4x15] Shine Panel_6'
+    21300014: '[4x15] Shine Panel_7'
+    21300016: '[4x15] Shine Panel_8'
+    21300018: '[4x15] Shine Panel_9'
+    21300020: '[4x15] Shine Panel_10'
+    21300022: '[4x15] Shine Panel_11'
+    21300024: '[4x15] Shine Panel_12'
+    21300026: '[4x15] Shine Panel_13'
+    21300028: '[4x15] Shine Panel_14'
+    21300030: '[4x15] Shine Panel_15'
+    21300032: '[4x15] Shine Panel_16'
+    21300034: '[4x15] Shine Panel_17'
+    21300036: '[4x15] Shine Panel_18'
+    21300038: '[4x15] Shine Panel_19'
+    21300040: '[4x15] Shine Panel_20'
+    21300042: '[4x15] Shine Panel_21'
+    21300044: '[4x15] Shine Panel_22'
+    21300046: '[4x15] Shine Panel_23'
+    21300048: '[4x15] Shine Panel_24'
+    21300050: '[4x15] Shine Panel_25'
+    21300052: '[4x15] Shine Panel_26'
+    21300054: '[4x15] Shine Panel_27'
+    21300056: '[4x15] Shine Panel_28'
+    21300058: '[4x15] Shine Panel_29'
+    21300060: '[4x15] Shine Panel_30'
+    21300062: '[4x15] Shine Panel_31'
+    21300064: '[4x15] Shine Panel_32'
+    21300066: '[4x15] Shine Panel_33'
+    21300068: '[4x15] Shine Panel_34'
+    21300070: '[4x15] Shine Panel_35'
+    21300072: '[4x15] Shine Panel_36'
+    21300074: '[4x15] Shine Panel_37'
+    21300076: '[4x15] Shine Panel_38'
+    21300078: '[4x15] Shine Panel_39'
+    21300080: '[4x15] Shine Panel_40'
+    21300082: '[4x15] Shine Panel_41'
+    21300084: '[4x15] Shine Panel_42'
+    21300086: '[4x15] Shine Panel_43'
+    21300088: '[4x15] Shine Panel_44'
+    21300090: '[4x15] Shine Panel_45'
+    21300092: '[4x15] Shine Panel_46'
+    21300094: '[4x15] Shine Panel_47'
+    21300096: '[4x15] Shine Panel_48'
+    21300098: '[4x15] Shine Panel_49'
+    21300100: '[4x15] Shine Panel_50'
+    21300102: '[4x15] Shine Panel_51'
+    21300104: '[4x15] Shine Panel_52'
+    21300106: '[4x15] Shine Panel_53'
+    21300108: '[4x15] Shine Panel_54'
+    21300110: '[4x15] Shine Panel_55'
+    21300112: '[4x15] Shine Panel_56'
+    21300114: '[4x15] Shine Panel_57'
+    21300116: '[4x15] Shine Panel_58'
+    21300118: '[4x15] Shine Panel_59'
+    21300120: '[4x15] Shine Panel_60'
+    21300122: '[4x15] Shine Panel_61'
+    21300124: '[4x15] Shine Panel_62'
+    21300126: '[4x15] Shine Panel_63'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73f0d67165c59488e0874ff7bdf6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_1'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3840
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5a6bacd7fe3249ac785253ee98713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_2'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3840
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9d79a2744a2f4e912a30f84e215d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_3'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3840
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ec89e6b258fc43b7205cd6e524489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_4'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fac0252951c2c45bab23b1c7a1491c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_5'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3584
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029e2486e3fa124dadcd65f5d6f2400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_6'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3584
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4665008e7948d9d48be221f3a73acac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_7'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3584
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f98471965eb5241bf91a797b0864d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_8'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54d3e511714184c8ada67a540a3bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_9'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3328
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66282781d9decd34abb57042ea2dec74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_10'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3328
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfbc4e3fa5690846a93fa846a1de98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_11'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3328
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205e8bde556e954f9fa298f544ecf06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137dee7c377e06418d9cbe07a6d7d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_13'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3072
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc744bff738944da0fcb2dea5929fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_14'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3072
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe5d3646dc51c42b4db060b2fb26f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_15'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3072
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe436075af9c349a5b31b8eaae64a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e31312a2547cf34c95ab8882c0acb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_17'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2816
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d073a95737841419064cb822c7f83f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_18'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2816
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089065be34011654b90a27816f9540fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_19'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2816
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8fca911269cf34bae46b163dfd661a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_20'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4c1eb7eb32144798b438b8181e8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_21'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2560
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afa3d4c71856148ae6f1075bff046a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_22'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2560
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731d7c82e18b76469c3b8788d18c4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_23'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2560
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c80532c1441649b5a4d6effd5b24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d2063be627864fa199829da9cff58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_25'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2304
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f906f65494fc894ba7a2ee846da68cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_26'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2304
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be650a8fb1602794896d27d29e82a4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_27'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2304
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb17af69b76babd43b1b44bd78aed35c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_28'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e383b124e8f141b520f020e155f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_29'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2048
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e5e89f9d4315b44ac5372cdbc09a72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_30'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2048
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4dd18b65844af4daa0bc77d9cb5c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_31'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2048
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c01fa5b0c93e41a0f9d745a71662c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_32'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d2a14b43f92e4b8f48e9eb7cc0549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_33'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1792
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b3249618bb92e40a3abff7cf222ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_34'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1792
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e43a4bd5cfc4147965339e8f8aa90a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_35'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1792
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bb518d71b39a54591c9db388dfa93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990109f73ead774f959aeb289cd31dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_37'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1536
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6980a3a6e37384eaeffafd7f0e8f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_38'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1536
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027662370a3bd54baa6c927e46e8099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_39'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1536
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaab46b1ed3667742a81380e76378b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844431a252db2644c82ad1f969faa99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_41'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1280
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbef1087a859b74d8417d8db3944dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_42'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d83304e7cb0db4c9fbad283d11fba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_43'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1280
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2448c7e4e674746a60f7594f909079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_44'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45aeffdf12818a4bbd8502dd6277a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_45'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1024
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15e36bf232aed4081507e8cb75b8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_46'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1024
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3124ace411bc94db89194441664073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_47'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1024
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51929a68e50daa43a0745380fa94105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adfd623ae27c54c9c74fc721f6c3a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_49'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2741ce71cd8b64aa11f3f2221e398c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_50'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1fadd113d49464389e78b05aa97cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_51'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 768
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bdd9942596a8a4ea91bdf6b5eca46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_52'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a4c9b64279244dbc270d324221574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_53'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 512
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236922d21d7a37743a69430f11957912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_54'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 512
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b6e18f9b3c69499bf06d1146734ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_55'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 512
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056dadb5a7bc097489285e24d23faa30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_56'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8993fe1279e22488435bad25871c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_57'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 256
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d84412972eb446a466ae920ccc596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_58'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 256
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ab49e7f198aac428c2cb20065ffbd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_59'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 256
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55875090a874be44915498aacb86b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_60'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca817f38e76dd46b10bda65a4a2db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_61'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e77798aa29924b8a5258cda60279a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_62'
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b7def93a773947883db9e02220951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[4x15] Shine Panel_63'
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221a2b1f6a23ca49a1649ff417ec998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2123cb3ede856224797cb8677c22994c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: efa9ddacac236d443ac63a1c26f5ac5e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[2x16] Bubble Beam_0'
+    21300002: '[2x16] Bubble Beam_1'
+    21300004: '[2x16] Bubble Beam_2'
+    21300006: '[2x16] Bubble Beam_3'
+    21300008: '[2x16] Bubble Beam_4'
+    21300010: '[2x16] Bubble Beam_5'
+    21300012: '[2x16] Bubble Beam_6'
+    21300014: '[2x16] Bubble Beam_7'
+    21300016: '[2x16] Bubble Beam_8'
+    21300018: '[2x16] Bubble Beam_9'
+    21300020: '[2x16] Bubble Beam_10'
+    21300022: '[2x16] Bubble Beam_11'
+    21300024: '[2x16] Bubble Beam_12'
+    21300026: '[2x16] Bubble Beam_13'
+    21300028: '[2x16] Bubble Beam_14'
+    21300030: '[2x16] Bubble Beam_15'
+    21300032: '[2x16] Bubble Beam_16'
+    21300034: '[2x16] Bubble Beam_17'
+    21300036: '[2x16] Bubble Beam_18'
+    21300038: '[2x16] Bubble Beam_19'
+    21300040: '[2x16] Bubble Beam_20'
+    21300042: '[2x16] Bubble Beam_21'
+    21300044: '[2x16] Bubble Beam_22'
+    21300046: '[2x16] Bubble Beam_23'
+    21300048: '[2x16] Bubble Beam_24'
+    21300050: '[2x16] Bubble Beam_25'
+    21300052: '[2x16] Bubble Beam_26'
+    21300054: '[2x16] Bubble Beam_27'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c20b7a62d798345b6a59bc0b0799c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_1'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9059dc9257399649a7a3f9c29493329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_2'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf18bdc67a06424aa26eafddd4cb3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_3'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2fc7a3d12edb48b8bef551a049888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_4'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528db1194940314193cfc4ad814b7ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_5'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e92ea21d128e64ea9fccc9c9ee6273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_6'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85907506c244bf04ea6b3de040c511a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_7'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c4e8f4d40f5f4a831a834410964b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_8'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698192d3539985458ce6a7babc4cf16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_9'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58aa06bccc71f48af65680de829521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a9c01ae8dec249a16d7de9b4fcd2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_11'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1463abdabd3d748abd10581486a76f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d509349e6845e48b334a5fca40557e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_13'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc494ddcd0b8d44a27415bf978ff3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_14'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d06322743569d4e8bc5eaf4776d1ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_15'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9086ea946d194ebd55bfd39590edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3351beb5330ebc84082fa39a61f485de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_17'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f93229eb932d49a27578ff87c4eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_18'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c5c3983139a9440b4e39f18af76fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_19'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f294e7a7623397e4eba5c95e21e3b8a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_20'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea315fcae8552d449ad271388825c53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_21'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd1ec647d35704688c294ce3a35e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_22'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffbc9bd919c44b45b29b8f1ccf27338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_23'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b0f39184e043a479d60cebb1a34312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564191aeec581e41ad9d1b128d40c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_25'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7263b1077020d48a90a6cb6e36e8fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_26'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b153ef538ad5534190963a51615debe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[2x16] Bubble Beam_27'
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 200
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341954a0497040749ab766f24e15c510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee4ca48bf9162ac41a0265ccd92cb225
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

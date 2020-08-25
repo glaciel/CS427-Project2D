@@ -1,0 +1,67 @@
+﻿6
+1;Welcome to ‘Health Beat’. Today, we’re talking about ____ and disease.;germs
+2;We hear _____ in the media about dangerous germs all around us.;claims
+3;Dr. Mitchell is here to help us understand which claims are true, and which are ____.;myths
+4;By germs, we mean _____ and viruses.;bacteria
+5;They are microorganisms that are the cause of many diseases. For example, tuberculosis is caused by a bacteria.;caused
+6;The common cold and ______ are caused by viruses.;influenza
+7;Most don’t harm us, and, in fact, some benefit us, like the bacteria in our bodies that help us ____ food.;digest
+8;No, I’m saying we need to keep in mind that just because germs exist everywhere this doesn’t mean that all the germs we come in contact with cause _____.;diseases
+9;One of our listeners claims money ______ many diseases because it has a lot of germs on it.;spreads
+10;Is this a ____ or true?;myth
+11;Of course money — both _____ and coins — pick up some bacteria and viruses as the money circulates from person to person.;banknotes
+12;How many bacteria a banknote has depends on how old it is and what it was printed on, and this _____ from country to country.;varies
+13;Of course, it’s always a good idea to wash our hands after ______ money.;handling
+14;I’m just saying that it’s a myth that money is a major way disease is ______.;transmitted
+15;Next many passengers claim that the fact that the same air is circulated and ________ on airplanes is what causes people to get sick when they fly.;recirculated
+16;It is a myth that the recirculating air on airplanes always spreads dangerous ____.;germs
+17;The reason is that nowadays many airlines use air _____ that remove germs.;filters
+18;The cold virus might have been spread from touching your seat ____, or a door handle.;tray
+19;Or it may have been spread by the passenger sitting next to you who was ______ and sneezing.;coughing
+20;They think it had to have been from breathing the same air over and over, but that’s not ____.;valid
+21;Another listener claims: the kitchen is the ______ room in the house. That isn’t true, is it?;dirtiest
+22;In fact, kitchens are _____ with germs that can cause diseases.;loaded
+23;For example, many people use a wet cloth or a _____ to clean up.;sponge
+24;The kitchen stove and sink may look cleaner, but they actually aren’t because there’s a high _______ of dangerous germs that have been spread by the wet cloth or sponge.;concentration
+25;The rule is: If you ____ some food on the floor, but you pick it up within five seconds, — then it’s still OK to eat it.;drop
+26;As soon as the food _____ the floor, it’s unsafe to eat it because it picks up bacteria immediately.;touches
+27;However, sometimes there are ______ of a disease which are unexpected or in new places and nobody understands why so many people are getting sick.;outbreaks
+28;In these situations, we need the help of researchers who work like detectives to try to _____ ___ the causes.;figure out
+29;In both cases, the researchers needed to carry out in-depth investigations to find out the causes of these ______.;epidemics
+30;The first situation ______ a disease called Schistosomiasis.;concerns
+31;Schistosomiasis is caused by a _____ that lives in snails.;parasite
+32;If people go into a river where the snails live, the parasite can get ______ by the water from the snail to the people’s skin, where is it begins to grow, and the people become quite sick.;transmitted
+33;Schistosomiasis is one of the most serious parasitic diseases in the world yet it was _____ in Senegal before 1986.;unknown
+34;After a lot of detective work, they _____ the problem back to the dam.;traced
+35;And yet by 1988, the ____ majority of the population, 90% in fact, had come down with the disease.;vast
+36;Finding a solution to this health crisis became _____.;critical
+37;Researchers looked at many clues, including the increase in snails in the Senegal river. This is what they ______.;determined
+38;The dam _____ the water in the river to flow differently.;caused
+39;This changed the prawns’ habitat and the prawns became ______.;extinct
+40;When all the prawns died off, there was nothing to eat the snails. The snail population increased _____ in the river.;rapidly
+41;This, in turn led to more parasites in the river water, and _____ many people were very ill.;suddenly
+42;The next _____ was to find a solution.;challenge
+43;The medicine they have treats the disease, it doesn’t prevent it.;treats
+44;As soon as people _____ from the disease, they get sick again.;recover
+45;It may seem like a good solution would be to _____ the disease by killing the snails.;eliminate
+46;However, they decided that a better long-term approach was to try to restore the environmental conditions of the river so that prawns would be able to _____ there again.;survive
+47;Their reasoning was that once prawns lived in the river again, the prawns would eat the _____, and there would be no more disease.;snails
+48;A project called Project Crevette is _____ to do this.;working
+49;This approach to solving a health problem is significant because it _____ the root cause of the disease rather than simply giving people medicine to treat the disease.;addresses
+50;Another ______ disease which required a certain amount of detective work was in Guam, where the Chamorro people had a disease called lytico-bodig.;mysterious
+51;The disease began early in the 20th century, reached its peak around ____ and then died out.;1940
+52;Researchers wanted to ______ what caused the disease to appear and then disappear.;determine
+53;The fact that the outbreak had already passed gave researchers evidence to ______ in terms of the conditions before and after the epidemic.;investigate
+54;The Chamorro people used a seed to ____ into a flour to cook with.;grind
+55;The seed contains a toxin, which researchers ______ was causing the disease.;speculated
+56;This seemed like a valid explanation, except for two factors: one, before the seeds were made into flour, they were ____ to remove the toxin and, two, men and women ate roughly the same amount of the flour.;washed
+57;The researchers had to ___ further. They studied the diet of men and women more carefully.;dig
+58;They ______ that men ate more of one kind of animal: flying fox.;discovered
+59;This led ______ to an interesting discovery: the same seeds the Chamorro people used to cook with were also a basic part of the flying fox’s diet.;researchers
+60;They also found that the seed toxin became highly _______ in the meat of the flying foxes.;concentrated
+61;Since men ate more flying foxes than women did, this helped to ____ why more men had the disease.;explain
+62;Researchers also learned that when the population of flying foxes began to decline due to overhunting, the ______ of the disease also started to decrease.;incidence
+63;When the flying foxes became ______, no one could eat them regularly.;endangered
+64;The result was that the disease disappeared completely, and the people’s health was _____.;restored
+65;These are just two examples of the various factors that need to be taken into account when investigating an _____ incidence of a disease.;unusual
+66;These are interesting examples because they ______ that researching diseases can be challenging, but very satisfying.;demonstrate

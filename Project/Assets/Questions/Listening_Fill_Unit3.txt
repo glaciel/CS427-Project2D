@@ -1,0 +1,72 @@
+﻿3
+1;Our science correspondence, Jessica White, is here from London to tell us about a new, high-tech lies detector. this machine can actually look into your _____ and tell whether you are lying.;brain
+2;Jessica, welcome. Good morning. Now, Jessica, _____ this to me.;explain
+3;These machines can read your ______ do I have that right?;thoughts
+4;Well, no, not exactly. Let me just give you a brief _____ of this.;overview
+5;Lie ______ have been around for decades.;detectors
+6;The most _____ lie detector is called a polygraph.;common
+7;It measures your heartbeat, blood pressure, breathing, sweating -stress, basically- although experts say it actually isn’t very ____.;accurate
+8;So while the polygraph ______ stress, this new technology, called fMRI, actually looks inside your brain, as you said.;measures
+9;And it _____ activity in the part of your brain that you use when you tell lies.;detects
+10;And experts say it’s much more accurate, though some of them also have some real _____.;concerns
+11;OK, and why is it more _____?;accurate
+12;Well, the polygraph really only ______ stress, since when you’re telling a lie you’re usually pretty stress about it.;measures
+13;But really good ____ can beat the test because they just don’t feel that stress.;liars
+14;Also, some people really get _____ even though they’re telling the truth.;nervous
+15;And the polygraph will _______ say those people are lying.;incorrectly
+16;But this new _____, the fMRI scanner, measures how you use your brain.;machine
+17;Basically, different parts of our brains have different ______.;functions
+18;One part controls memory, another does arithmetic, another makes decisions, another make ____.;plans
+19;There are parts that deal with emotions, ______, and so on.;reasoning
+20;And there is one part, called the caudate, which is _____ to many things, including lying.;connected
+21;So when the fMRI scan shows a lot of activity in the caudate, it is very likely that the person is lying. In fact, according to some, the test is over 95% _____.;accurate
+22;There are still a few problems. For one thing, these are very big, ______ machines.;expensive
+23;You have to lie perfectly still, you can’t move even a little bit, so the machine won’t work on a person who doesn’t want to _____.;cooperate
+24;Then they ask the hard questions: “Did you _____ the money?” or “Did you kill the person?”.;steal
+25;But if you caudate activity always stays the same, then they’ll think it’s the ___.;truth
+26;And you keep your caudate activity the same by raising your caudate level for the easy questions, when really you are being _____.;truthful
+27;Or you can just think of a ___ while saying the truth.;lie
+28;Now, as you know, today, we’re going to talk about animal _____, which is just a fancy way of saying, “the thoughts of animals”.;cognition
+29;Now, I asked you all to watch a short online video of an ______ on bird cognition.;experiment
+30;I hope you all had a chance to watch...No? Come on, people, it’s only a ____ long!;minute
+31;OK, then, maybe someone who saw the video can _____ it for us.;summarize
+32;OK, uh, this was an experiment on crows and tools. They wanted to know if crows can make tools to get ___.;food
+33;So there was a tube and a bucket of food at the ____ of the tube.;bottom
+34;And they gave the crow a piece of ____ wire-they gave it a straight piece of wire, which wouldn’t work to get the food.;metal
+35;You needed a hook to ____ up the bucket. That’s an important detail.;pull
+36;After _____ a few times, the crow suddenly gets an idea, and you can totally see it thinking, “Aha! I’ve got it!”;failing
+37;Thank you, Alison, for that very clear ____.;summary
+38;I just want to ____ on one point.;disagree
+39;Although the crow might be thinking, ______, making a decision, we just don’t know for sure.;reasoning
+40;Now, of course, this behavior is definitely ______.;surprising
+41;Although we now know that other animals do use tools, such as chimpanzees, it’s still very surprising to see a little _____ doing this.;bird
+42;And what’s more, this kind of bird also makes tools in the ____.;wild
+43;It’s not just one special bird in a ______.;laboratory
+44;After traveling to these islands, researchers observed crows in the wild making tools out of twigs and leaves in order to find _____ and other things to eat.;insects
+45;This made researchers ____, “What is happening here?” Maybe crows really are intelligent.;wonder
+46;That is, maybe these crows are just “programmed” to make tools, you know, _______ without thinking anything at all.;automatically
+47;Now, this brings us to experiments like the one Alison just ______ for us.;described
+48;That’s very significant. Let me ____ why.;explain
+49;However, as it had never seen metal wire before, those _______ are less likely.;explanations
+50;Our guest speaker, Paula Novak, is here today to share some ________ views on the phenomenon known as mind reading.;contemporary
+51;There have been numerous reports of people able to _____ their thoughts to someone else via electrical currents or “brainwaves”.;transmit
+52;However, that kind of mind reading, known as telepathy - from the Greek words “tele”, meaning distant, and “pathe”, meaning experience - has never, in reality, been ____ to exist.;proven
+53;Science, has never been able to ______ any of the results in a controlled environment.;replicate
+54;We’re talking about science ____ brainwaves here;fiction
+55;Well, what I am going to talk about is mind reading as a form of social and emotional _______.;intelligence
+56;This is far less _______ than the telepathy of movies;specialized
+57;In fact, it is something that we all do, to a greater or lesser ____, most of the time.;extent
+58;This form of mind reading involves making ______ guesses about the thoughts and feelings of others.;educated
+59;When we are with company, we don’t realize it, but we are spending a significant ________ of our time looking for clues about the behavior, actions, and words of the other person.;proportion
+60;Why did they say that? Why is their _____ expression like this? Why are they doing that?;facial
+61;We look for evidence to help us correctly ______ the other person, in other words to “read their mind”.;interpret
+62;By doing this, we are _____ helping ourselves.;actually
+63;So, much of what we do and say is ____ on other people and their actions.;based
+64;It pays to put time into reading the minds of others in order to _____ what we should do next.;determine
+65;Just how good we are at this is measured by _______ and labeled as our “empathic accuracy,” and as I said, is seen as a form of social intelligence.;psychologists
+66;This all becomes ____ when we think about what happens socially when it goes wrong, when we fail to understand the actions, feelings, or thoughts of others.;clearer
+67; ______ is actually one of the biggest causes of relationship breakdowns, and of aggressive situations in which people get angry or even violent.;misunderstanding
+68; ______, despite its importance, we don’t actually seem to be that good at reading each other’s minds either.;worryingly
+69;In tests, where the moment-by-moment thoughts were recorded of the participants, people who had never met each other before were only 20% accurate with their ________ of the other person.;interpretations
+70;This number, however, only ____ to 35% when we are talking about close friends or partners.;climbs
+71;So let’s take a closer look now at how we can _____ our mind reading ability;improve

@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: 20b4c072077ee584e90b0dda02d9e656
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[8x9] Bubble Skew_0'
+    21300002: '[8x9] Bubble Skew_1'
+    21300004: '[8x9] Bubble Skew_2'
+    21300006: '[8x9] Bubble Skew_3'
+    21300008: '[8x9] Bubble Skew_4'
+    21300010: '[8x9] Bubble Skew_5'
+    21300012: '[8x9] Bubble Skew_6'
+    21300014: '[8x9] Bubble Skew_7'
+    21300016: '[8x9] Bubble Skew_8'
+    21300018: '[8x9] Bubble Skew_9'
+    21300020: '[8x9] Bubble Skew_10'
+    21300022: '[8x9] Bubble Skew_11'
+    21300024: '[8x9] Bubble Skew_12'
+    21300026: '[8x9] Bubble Skew_13'
+    21300028: '[8x9] Bubble Skew_14'
+    21300030: '[8x9] Bubble Skew_15'
+    21300032: '[8x9] Bubble Skew_16'
+    21300034: '[8x9] Bubble Skew_17'
+    21300036: '[8x9] Bubble Skew_18'
+    21300038: '[8x9] Bubble Skew_19'
+    21300040: '[8x9] Bubble Skew_20'
+    21300042: '[8x9] Bubble Skew_21'
+    21300044: '[8x9] Bubble Skew_22'
+    21300046: '[8x9] Bubble Skew_23'
+    21300048: '[8x9] Bubble Skew_24'
+    21300050: '[8x9] Bubble Skew_25'
+    21300052: '[8x9] Bubble Skew_26'
+    21300054: '[8x9] Bubble Skew_27'
+    21300056: '[8x9] Bubble Skew_28'
+    21300058: '[8x9] Bubble Skew_29'
+    21300060: '[8x9] Bubble Skew_30'
+    21300062: '[8x9] Bubble Skew_31'
+    21300064: '[8x9] Bubble Skew_32'
+    21300066: '[8x9] Bubble Skew_33'
+    21300068: '[8x9] Bubble Skew_34'
+    21300070: '[8x9] Bubble Skew_35'
+    21300072: '[8x9] Bubble Skew_36'
+    21300074: '[8x9] Bubble Skew_37'
+    21300076: '[8x9] Bubble Skew_38'
+    21300078: '[8x9] Bubble Skew_39'
+    21300080: '[8x9] Bubble Skew_40'
+    21300082: '[8x9] Bubble Skew_41'
+    21300084: '[8x9] Bubble Skew_42'
+    21300086: '[8x9] Bubble Skew_43'
+    21300088: '[8x9] Bubble Skew_44'
+    21300090: '[8x9] Bubble Skew_45'
+    21300092: '[8x9] Bubble Skew_46'
+    21300094: '[8x9] Bubble Skew_47'
+    21300096: '[8x9] Bubble Skew_48'
+    21300098: '[8x9] Bubble Skew_49'
+    21300100: '[8x9] Bubble Skew_50'
+    21300102: '[8x9] Bubble Skew_51'
+    21300104: '[8x9] Bubble Skew_52'
+    21300106: '[8x9] Bubble Skew_53'
+    21300108: '[8x9] Bubble Skew_54'
+    21300110: '[8x9] Bubble Skew_55'
+    21300112: '[8x9] Bubble Skew_56'
+    21300114: '[8x9] Bubble Skew_57'
+    21300116: '[8x9] Bubble Skew_58'
+    21300118: '[8x9] Bubble Skew_59'
+    21300120: '[8x9] Bubble Skew_60'
+    21300122: '[8x9] Bubble Skew_61'
+    21300124: '[8x9] Bubble Skew_62'
+    21300126: '[8x9] Bubble Skew_63'
+    21300128: '[8x9] Bubble Skew_64'
+    21300130: '[8x9] Bubble Skew_65'
+    21300132: '[8x9] Bubble Skew_66'
+    21300134: '[8x9] Bubble Skew_67'
+    21300136: '[8x9] Bubble Skew_68'
+    21300138: '[8x9] Bubble Skew_69'
+    21300140: '[8x9] Bubble Skew_70'
+    21300142: '[8x9] Bubble Skew_71'
+    21300144: '[8x9] Bubble Skew_72'
+    21300146: '[8x9] Bubble Skew_73'
+    21300148: '[8x9] Bubble Skew_74'
+    21300150: '[8x9] Bubble Skew_75'
+    21300152: '[8x9] Bubble Skew_76'
+    21300154: '[8x9] Bubble Skew_77'
+    21300156: '[8x9] Bubble Skew_78'
+    21300158: '[8x9] Bubble Skew_79'
+    21300160: '[8x9] Bubble Skew_80'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6509d5b0021e84588b5726d14ae4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_1'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364a8a0b58bf8d4d8b50f83ed3e4ce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_2'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5fa45dee6b95043bfe60950a8727b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_3'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b601211e1b91447b203f6299ea967f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_4'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb68912ac5d7248a6136ce8a528e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_5'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d52d54aa8f510c478d96517d488cde2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_6'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25894adee0751984c949bbdc4d2f1995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_7'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154033b771e35fe47ae4b95fab20c502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_8'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 8064
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc7e9fb2fa6b640a7d84a534fef4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a23fd9d6a3b746aae4f52b9711bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_10'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf170ef7e64a044f9ee288463b679bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_11'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a251256f64d7340bfcdfa4104d9a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_12'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58511fb68ded244802d393f62fa36e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_13'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1dc3b1c59495449a290257f4bf8e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_14'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e762c775085aa94a9ea628bd66251cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_15'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eceae486eefdff468f9c2fd15391a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_16'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719933ec271e34498a30a2aadd7127c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_17'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 7056
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6dd63882f1c44e8a9926da6547ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_18'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10256f4921f01f9469647a8be539dae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_19'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61b20c81c4c05b4d9a7ba5a78c67ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_20'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d91e44fe111f364288757c89daa0ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_21'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad03025c758996d469aaf4b797386d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_22'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494317a3333c0394781b5e5ccc6af28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_23'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1720f905774d2b46b260660041926fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_24'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53d22470da86974cb2298ae4b164188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_25'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dfe4922e57d834299632d5b09f4b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_26'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 6048
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89128a6e2257694d8b1eed1ae45d0ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_27'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb1899c52f05448a7e2676b9a4927f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_28'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28917033b2d14234bb19c6690e117c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_29'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331b1a771ee22346af311faa274a32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_30'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321d9310954d1749af1188974f835b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_31'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff645f871a1a549aa53bbb7485da47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_32'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e980abf6153b478462f6f1614c1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_33'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430d7d1475eb9b4b9ba8158fe7fe55c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_34'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ea22c2ca845a49bdf3accd16cb036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_35'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 5040
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797af59cc2300db41ac1b89b0f8e828c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e91fba923cf249bb709e9ed225754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_37'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee194a0f09f52a4b9d108d45cc40e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_38'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f90c07e67f5fe847b7f1d289478a65d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_39'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff836dcb65bb54d82dc844b4f0debd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_40'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d263402f5c8a804c983641eee56957a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_41'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bda218dd0064841b68749755936d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_42'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b79b471ecf2a54eac75903df61fb44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_43'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41176f5f6faf6304ba6901dc81725676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_44'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 4032
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9909f99717abc4e8545477ad3d723b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_45'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887a8f4f3c9b3248951aab0a4d1e9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_46'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f9928941c05a459218e28285072ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_47'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592c61a8f02b1c44a7a888b6ee3d499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_48'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902bd0a79fb17984eaba83204e11d461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_49'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2c2c25d0ca5a43b07a01b77707a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_50'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6247089724e9604fbb3b70d35594fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_51'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7042abad8b94549b2fd0269d5fa9db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_52'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef436a6f9968542b1b63a694006ec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_53'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 3024
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e19b12c1fb05d447aab757a0ed7e73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_54'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d81cd3d4c33eb458b9757621a2333e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_55'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e99be5c1f4b9e4d8fa8a24a4ba83d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_56'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff08bcff0f3864680a2ecdaa6285fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_57'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abb2792032318242aea6bc8f4babd42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_58'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18aa60bfb1d3ad4e8a60b398f65bca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_59'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d3b97639bd624ba7baeae6bb231f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_60'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9e788b2a01904abd52b3159d20250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_61'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51b1d9478b42344b9fce2aa8d043ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_62'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 2016
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864442e253eeb34fa3c1a67948e3fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_63'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851336f10e8d4bf47a35ab6d07749860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_64'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47635d104bfa7cc4cb8a1431ec69045e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_65'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc56d839a417f43a3ee339a473fba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_66'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466f61c8e2aff34199f216e89e1f9c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_67'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca51c61bc1d5b048b6155085e8e87b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_68'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940de567da1b95479879e360a9b0fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_69'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6898d0965280468403102e6d35bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_70'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542d45b96861584e8466002cc35b8e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_71'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 1008
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe4d5f332ffa14c8f563557c308216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_72'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bec6e86842ea741bfc2a793162800a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_73'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834c31fd2e1a7547b1fdffe89201383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_74'
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d99ad9e908f24aaefdaaca4520ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_75'
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bed3fb2a4701438b3e97e7e2aeb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_76'
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7471f913c03e948a6fa0df7bee6004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_77'
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c4b8474203f244a94a29a4565c46e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_78'
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff6c120bf3ab7459bcf812de67f104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_79'
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943429da8cfe9394aad6b036a229f778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[8x9] Bubble Skew_80'
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 1008
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2dc28c2f9a1744ac8ff4935d85dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d5a93b6d2c8a264d91b1bd68f86b10f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 17700e99740f0d745b78278815432f28
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '[5x10] Jellyfish Idle_0'
+    21300002: '[5x10] Jellyfish Idle_1'
+    21300004: '[5x10] Jellyfish Idle_2'
+    21300006: '[5x10] Jellyfish Idle_3'
+    21300008: '[5x10] Jellyfish Idle_4'
+    21300010: '[5x10] Jellyfish Idle_5'
+    21300012: '[5x10] Jellyfish Idle_6'
+    21300014: '[5x10] Jellyfish Idle_7'
+    21300016: '[5x10] Jellyfish Idle_8'
+    21300018: '[5x10] Jellyfish Idle_9'
+    21300020: '[5x10] Jellyfish Idle_10'
+    21300022: '[5x10] Jellyfish Idle_11'
+    21300024: '[5x10] Jellyfish Idle_12'
+    21300026: '[5x10] Jellyfish Idle_13'
+    21300028: '[5x10] Jellyfish Idle_14'
+    21300030: '[5x10] Jellyfish Idle_15'
+    21300032: '[5x10] Jellyfish Idle_16'
+    21300034: '[5x10] Jellyfish Idle_17'
+    21300036: '[5x10] Jellyfish Idle_18'
+    21300038: '[5x10] Jellyfish Idle_19'
+    21300040: '[5x10] Jellyfish Idle_20'
+    21300042: '[5x10] Jellyfish Idle_21'
+    21300044: '[5x10] Jellyfish Idle_22'
+    21300046: '[5x10] Jellyfish Idle_23'
+    21300048: '[5x10] Jellyfish Idle_24'
+    21300050: '[5x10] Jellyfish Idle_25'
+    21300052: '[5x10] Jellyfish Idle_26'
+    21300054: '[5x10] Jellyfish Idle_27'
+    21300056: '[5x10] Jellyfish Idle_28'
+    21300058: '[5x10] Jellyfish Idle_29'
+    21300060: '[5x10] Jellyfish Idle_30'
+    21300062: '[5x10] Jellyfish Idle_31'
+    21300064: '[5x10] Jellyfish Idle_32'
+    21300066: '[5x10] Jellyfish Idle_33'
+    21300068: '[5x10] Jellyfish Idle_34'
+    21300070: '[5x10] Jellyfish Idle_35'
+    21300072: '[5x10] Jellyfish Idle_36'
+    21300074: '[5x10] Jellyfish Idle_37'
+    21300076: '[5x10] Jellyfish Idle_38'
+    21300078: '[5x10] Jellyfish Idle_39'
+    21300080: '[5x10] Jellyfish Idle_40'
+    21300082: '[5x10] Jellyfish Idle_41'
+    21300084: '[5x10] Jellyfish Idle_42'
+    21300086: '[5x10] Jellyfish Idle_43'
+    21300088: '[5x10] Jellyfish Idle_44'
+    21300090: '[5x10] Jellyfish Idle_45'
+    21300092: '[5x10] Jellyfish Idle_46'
+    21300094: '[5x10] Jellyfish Idle_47'
+    21300096: '[5x10] Jellyfish Idle_48'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d749cf22fb79b479c715227dc7cd8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_1'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1944
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2792c1be176c4996a73487aef331b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_2'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1944
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7ec3154a619141be6f7bc3c3dc08f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_3'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1944
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96753e17cb7b6aa49b97a159729eea5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_4'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1944
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7efcb6f81b6f6439a3a636510fecb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ad31a7eb0c5f4fb74ceca657da804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_6'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1728
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e47a779fa56f4c87c541f8b9a76d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_7'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1728
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c7ff2240ecd24eac02d4a4f9d7585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_8'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1728
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef33aac6842a2429f55ba67c571094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_9'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1728
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a9be8ef24df54595bdb624a727322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37c3473403cda42a46860eccb55715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_11'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1512
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e509ba2d51bfd45917ed95242dd82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_12'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1512
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caedd145462313341bafd8801f1c0709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_13'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1512
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e88167baa98b4caa40ff58ba78028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_14'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1512
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32143214b853a904c8433b2334818523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_15'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a5db4130e0b034380f4d5eee46a26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_16'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1296
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4371076cb889334098d714d53f610b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_17'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1296
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499da3f68c912e4b9ef8eb2a10c8a96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_18'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1296
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f885bd51f08d469efda15868d9677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_19'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1296
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a3b68dc8cb784ea33bc5185417961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_20'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0740e233d9cd43a8f75071e0525f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_21'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1080
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314646ba5d63f044833f4a7c47ea728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_22'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1080
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fb7b2ef9458d84ea3054cd5dfd2a80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_23'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1080
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7f428385097249a8729c06404a597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_24'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1080
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be4b51e9518f1428a105c01dda9e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_25'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3093d2561536b94f8b593febc6e4c56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_26'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 864
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744d7e942c47d364cbe53693ebd2aac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_27'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 864
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baffb80fb8476a40b040fc22789c9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_28'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 864
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad92b218596d1247a2ee5bdb7df1454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_29'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 864
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99818b616350a5e4a98c65342e6cb095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_30'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a73beaeb3da50d4c92d8e74f1e1bd17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_31'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 648
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac00e2a96289224496bf85081703985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_32'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 648
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6586ae1cb1689438e9a9b8dd67d37f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_33'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 648
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829750e8b0966374b9498800694063de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_34'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 648
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e5dc8337e3fb439dbc05aab5d3964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_35'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5304bf8e9cc48964298ff45e61d061ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_36'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 432
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99939b903953b2943959eeab163b02b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_37'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 432
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c781a212b41623488ae0876bab3e3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_38'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 432
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65062322e47cad34aba2ba2a60de1476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_39'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 432
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4459def935fe45a7dab2cf6f798a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ab7b7a480e1145930db99e752880b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_41'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 216
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d08ac510e3d7459e28d716e848b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_42'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 216
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33a9f84d9b3524485952697714b692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_43'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 216
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239cbf060062523429385332fda8756c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_44'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 216
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2cac245c4908842820c663ea294f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_45'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b753c8e610ec8247b794f7aaa5e085a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_46'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a6073ca72a9824384b594005bc322d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_47'
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e4046a1575f84d99eb11e1d703b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[5x10] Jellyfish Idle_48'
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 456
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180bcab4c01fae4784d05af8539d523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca37707492eed7a44a6fff738c43d37c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

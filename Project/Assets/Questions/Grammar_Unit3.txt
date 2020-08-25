@@ -1,0 +1,14 @@
+﻿3
+1;She went out ____ the rain.;although;despite;both answers;despite
+2;She went out ____ it was raining;although;despite;both answers;although
+3;She went out _____ the fact that it was raining.;although;despite;both answers;despite
+4; ______ she didn’t like it, I enjoyed it a lot.;though;although;both answers;both answers
+5;It was good, _____ expensive;though;despite;both answers;though
+6;I was late. ____, the others were all on time.;although;however;despite;however
+7; ______ I was late, the others were all on time.;although;however;despite;although
+8;They managed it ______ I wasn’t there.;although;however;despite;although
+9;They managed it ______the fact that I wasn’t there.;although;however;despite;despite
+10; ______ tired, he managed to finish it on time.;though;despite;both answers;though
+11; ______ hard she tried, she still couldn’t manage it.;however;despite;though;however
+12;You did it! I didn’t enjoy it much, _____;though;although;both answers;though
+13; ______ of the opportunity, no one bothered.;despite;in spite;although;in spite

@@ -1,0 +1,6 @@
+﻿2
+61;The students’ major is engineering.;T;It is the last day the students meet their professor.;F
+62;Drawing a is about a golf player.;F;You can control this ball and steer it to the right way.;T
+63;Pedrick retired in the 1960s and 1970s.;T;Before retirement, Pedrick was an inventor.;F;Pedrick worked in the British patent office in 1 year.;F;Drawing b is another unusual invention of Pedrick.;T;Drawing b is a bicycle you can ride underwater.;F
+64;Some of Pedrick inventions were actually produced.;F;A car drive from the back is another invention of Pedrick.;T;The professor agrees that some of Pedrick’s inventions are a little strange.;T
+65;According to the professor, engineering is more than making money.;T;Pedrick only looked at hug problems.;F;Pedrick also concerned about the world hunger and nuclear war.;T;The shooting snowballs was designed to be used in nuclear war.;F;Drawing c is a design to bring water to the people who need it.;T

@@ -1,0 +1,11 @@
+﻿4
+88;It’d be difficult for people to live without fire.;T;The topic is how to control fire.;F
+89;When fire was first used regularly is measured exactly.;F
+90;The discovery of the controlled use of fire can change the lives of our ancestors significantly.;T
+91;The fire made people live in colder climates.;T
+92;The fire can attract wild animals.;F;Our ancestors can use fire to have a safer and warmer night.;T
+93;The third impact is the controlled use of fire changed human choices of food and nutrition.;T
+94;People had many choices of food thanks to the controlled use of fire.;T;People could not digest many plants when they were raw.;T
+95;Cooked food was especially helpful to grown-up people.;F;Cooked food cannot be kept for a long time.;F;Cooked food made people survive longer and be healthier.;T
+96;People communicated more thanks to the controlled use of fire.;T
+97;Technology can only be understood as mobile phones and electronics-computers.;F;The controlled use of fire can be considered as an advance in the use of technology.;T

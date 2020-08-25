@@ -1,0 +1,10 @@
+﻿1
+49;A photo ID was common as a method for identifying people.;T;The need to protect our identity and verify it digitally leads to the use of other means.;T
+50;Biometrics is the human body index.;F;Biometrics information is fingerprinting.;F
+51;The talk is divided into 3 main parts.;F;The speaker will talk about the conventional means of identification first.;T
+52;Which to include in a passport or driving license is completely different among countries.;F;Whether you are married or not may be included in your IDs.;T
+53;PINs stand for Private Identification Numbers.;F;A photo is quick to identify.;T;It is possible that we forget the password.;T;Our personal information can be accessed when IDs were stolen.;T
+54;Fingerprinting is a new concept of biometric information.;F;Our fingerprinting is not the same between different people.;T
+55;To verify, the 2 samples of the fingerprint are taken from the 2 fingers.;F;The samples may differ slightly due to the flexibility of the skin.;T
+56;3D scanner uses light to create an identical fingerprinting sample.;F;The fact that people touch 3D scanners makes this method even more reliable.;F
+57;A person’s pitch can be used to establish identity.;F;A person’s rhythm can be used to establish identity.;F

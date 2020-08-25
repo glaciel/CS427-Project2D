@@ -1,0 +1,23 @@
+﻿5
+67;Coffee emerged in Italy before 1500s.;F
+68;According to the speaker, not all traditional cuisine originated from the same country.;T
+69;The main topic is about the Silk Road.;F;The international trade networks nowadays will be discussed later in the lecture.;T;Silk Road is the routes from China to Middle East.;F
+70;China exported technology devices to Europe through the Silk Road.;F;Beside porcelain and silk, ivory, black pepper and gold are also transported through Silk Road.;T
+71;Merchants from the Middle East gain profits and political power from the Silk Road.;T
+72;The Columbian Exchange was built before 1942.;F;The Columbian Exchange included a larger parts of the world than the Silk Road.;T
+73;The Silk Road depended on the Middle East.;T;The Columbian Exchange had great impact on our eating and drinking style.;T
+74;Thanks to international system like the Columbian Exchange, we can consume products from all over the world.;T
+75;Around 90% of the world products are now exchanged through the Columbian Exchange.;F;Plane is the most common means of international trade nowadays.;F;China nowadays imports products like clothing, electronics and more.;F;Our eating habit shapes how international trade works.;F
+76;The topic introduced is urbanization.;T;Urbanization is the movement of people from urban to rural areas.;F
+77;Some scientists suggest urbanization is the biggest migration ever.;T;At the beginning of 21st century, there will be about three billion people moving from the village to the city.;F;By 2050 there will be about 50% of the world’s people live in cities.;F
+78;Urbanization is happening significantly.;T
+79;In 1950 there were 400 cities with more than a million people in India.;F;China has more than a hundred cities over a million people now.;T
+80;Shenzhen used to be a small village.;T;iPhone and other high-tech used to be made in Shenzhen.;F
+81;All people in the rural villages are living on less than a dollar a day.;F;According to the professor, life in rural areas are not easy as it seems.;T
+82;Life span in the village is much lower than that in the city.;F
+83;A billion people are living poor conditioned areas in the cities.;T;The slum may be equipped with internet access and entrance to transportation.;T
+84;People in the slums are usually close to each other.;T
+85;Many people have their own housese in the slums.;T;The house ownership rate in the city is more than 85%.;F;All megacities have slums.;F
+86;People migrated to Shenzhen randomly.;F;A positive side of urbanization is more opportunities for women.;T
+87;The middle class usually move to the slums of the cities to live.;F;Billions of people are getting richer thanks to urbanization.;F
+88;An exact number of $250 billion dollars a year is sent from city back to the villages.;F;Burnization helps reduce the use of energy by public transportation.;T
